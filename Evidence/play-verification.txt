@@ -1,0 +1,30 @@
+PASS: Main menu starts
+PASS: Play opens level selection
+PASS: Level button opens puzzle
+PASS: Rapid repeat tap is ignored during rotation
+PASS: Restart during rotation restores original board
+PASS: Pause opens
+PASS: Paused board rejects input
+PASS: Resume returns to board
+PASS: Level 1: water reaches target before victory
+PASS: Level 1: stars and unlock saved
+PASS: Next loads 2
+PASS: Level 4: water reaches target before victory
+PASS: Level 4: stars and unlock saved
+PASS: Next loads 5
+PASS: Level 8: water reaches target before victory
+PASS: Level 8: stars and unlock saved
+PASS: Next loads 9
+PASS: Level 14: water reaches target before victory
+PASS: Level 14: stars and unlock saved
+PASS: Next loads 15
+PASS: Level 19: water reaches target before victory
+PASS: Level 19: stars and unlock saved
+PASS: Next loads 20
+PASS: Level 25: water reaches target before victory
+PASS: Level 25: stars and unlock saved
+PASS: Next loads 26
+PASS: Music setting toggles and persists
+PASS: Music setting survives screen recreation
+PASS: A worse replay never lowers saved best stars or moves
+ALL PLAY CHECKS PASSED

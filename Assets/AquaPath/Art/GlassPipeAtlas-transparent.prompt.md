@@ -1,0 +1,9 @@
+# Targeted alpha extraction attempt
+
+Built-in image_gen edit of GlassPipeAtlas.png. Preserved output pixels exactly; no external editing performed.
+
+QA FAILURE: Despite the requested filename and alpha instructions, the result is 1536x1024 RGB PNG, color type 2 / Format24bppRgb, with no alpha channel. Green contamination is visibly removed, but the checkerboard remains baked into opaque pixels. This is NOT a production transparent sprite asset. No further generation attempts were made.
+
+Use case: background-extraction.
+EDIT the supplied image. Deliver a genuinely transparent PNG with an actual alpha channel. The supplied atlas currently has a FAKE gray checkerboard painted into the image; REMOVE this entire checkerboard to fully transparent alpha=0, and remove all green color contamination visible inside the glass mouths and clear walls. Empty areas inside the hollow glass must also be genuinely transparent through to the canvas while retaining white glass reflections and thin dark glass edge refractions. Do not render a replacement checkerboard, matte, plain color, green screen or background of any kind.
+Preserve all six existing blue-water glass pipe sprites FULLY, including every edge, shape, thick glossy rims, bubbles, white reflections, blue water, dimensions, positions and arrangement. Preserve the 1536x1024 canvas and 3-column 2-row layout. Do not rearrange, crop, add, remove, relight or redraw the objects except where required to remove green contamination or the fake checkerboard seen through clear glass. Replace green tint with neutral clear transparent glass and pale cyan glass reflections. The entire gray patterned canvas outside all objects must have actual zero opacity. Smooth antialiased partially transparent glass contours. No shadows outside objects, no labels, no new patterns. This is an alpha background removal edit for game sprite use, not an illustration of transparency. Output actual RGBA PNG.

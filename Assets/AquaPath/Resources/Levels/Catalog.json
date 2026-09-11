@@ -1,0 +1,6008 @@
+{
+    "levels": [
+        {
+            "level": 1,
+            "size": 4,
+            "source": 0,
+            "target": 15,
+            "idealMoves": 6,
+            "cells": [
+                {
+                    "Shape": 4,
+                    "Rotation": 1,
+                    "Solution": 1,
+                    "Locked": true
+                },
+                {
+                    "Shape": 1,
+                    "Rotation": 0,
+                    "Solution": 2,
+                    "Locked": false
+                },
+                {
+                    "Shape": 0,
+                    "Rotation": 0,
+                    "Solution": 0,
+                    "Locked": false
+                },
+                {
+                    "Shape": 0,
+                    "Rotation": 0,
+                    "Solution": 0,
+                    "Locked": false
+                },
+                {
+                    "Shape": 0,
+                    "Rotation": 2,
+                    "Solution": 2,
+                    "Locked": false
+                },
+                {
+                    "Shape": 2,
+                    "Rotation": 3,
+                    "Solution": 0,
+                    "Locked": false
+                },
+                {
+                    "Shape": 1,
+                    "Rotation": 3,
+                    "Solution": 2,
+                    "Locked": false
+                },
+                {
+                    "Shape": 1,
+                    "Rotation": 3,
+                    "Solution": 3,
+                    "Locked": false
+                },
+                {
+                    "Shape": 3,
+                    "Rotation": 3,
+                    "Solution": 3,
+                    "Locked": false
+                },
+                {
+                    "Shape": 0,
+                    "Rotation": 3,
+                    "Solution": 3,
+                    "Locked": false
+                },
+                {
+                    "Shape": 3,
+                    "Rotation": 1,
+                    "Solution": 1,
+                    "Locked": false
+                },
+                {
+                    "Shape": 1,
+                    "Rotation": 2,
+                    "Solution": 2,
+                    "Locked": false
+                },
+                {
+                    "Shape": 3,
+                    "Rotation": 3,
+                    "Solution": 3,
+                    "Locked": false
+                },
+                {
+                    "Shape": 1,
+                    "Rotation": 1,
+                    "Solution": 1,
+                    "Locked": false
+                },
+                {
+                    "Shape": 2,
+                    "Rotation": 3,
+                    "Solution": 3,
+                    "Locked": false
+                },
+                {
+                    "Shape": 5,
+                    "Rotation": 0,
+                    "Solution": 0,
+                    "Locked": true
+                }
+            ],
+            "route": [
+                0,
+                1,
+                5,
+                6,
+                10,
+                11,
+                15
+            ]
+        },
+        {
+            "level": 2,
+            "size": 4,
+            "source": 0,
+            "target": 15,
+            "idealMoves": 5,
+            "cells": [
+                {
+                    "Shape": 4,
+                    "Rotation": 1,
+                    "Solution": 1,
+                    "Locked": true
+                },
+                {
+                    "Shape": 1,
+                    "Rotation": 0,
+                    "Solution": 2,
+                    "Locked": false
+                },
+                {
+                    "Shape": 3,
+                    "Rotation": 0,
+                    "Solution": 0,
+                    "Locked": false
+                },
+                {
+                    "Shape": 1,
+                    "Rotation": 1,
+                    "Solution": 1,
+                    "Locked": false
+                },
+                {
+                    "Shape": 1,
+                    "Rotation": 0,
+                    "Solution": 0,
+                    "Locked": false
+                },
+                {
+                    "Shape": 2,
+                    "Rotation": 3,
+                    "Solution": 0,
+                    "Locked": false
+                },
+                {
+                    "Shape": 1,
+                    "Rotation": 0,
+                    "Solution": 2,
+                    "Locked": false
+                },
+                {
+                    "Shape": 1,
+                    "Rotation": 2,
+                    "Solution": 2,
+                    "Locked": false
+                },
+                {
+                    "Shape": 2,
+                    "Rotation": 0,
+                    "Solution": 0,
+                    "Locked": false
+                },
+                {
+                    "Shape": 3,
+                    "Rotation": 1,
+                    "Solution": 1,
+                    "Locked": false
+                },
+                {
+                    "Shape": 3,
+                    "Rotation": 2,
+                    "Solution": 2,
+                    "Locked": false
+                },
+                {
+                    "Shape": 1,
+                    "Rotation": 2,
+                    "Solution": 2,
+                    "Locked": false
+                },
+                {
+                    "Shape": 3,
+                    "Rotation": 1,
+                    "Solution": 1,
+                    "Locked": false
+                },
+                {
+                    "Shape": 2,
+                    "Rotation": 1,
+                    "Solution": 1,
+                    "Locked": false
+                },
+                {
+                    "Shape": 0,
+                    "Rotation": 2,
+                    "Solution": 2,
+                    "Locked": false
+                },
+                {
+                    "Shape": 5,
+                    "Rotation": 0,
+                    "Solution": 0,
+                    "Locked": true
+                }
+            ],
+            "route": [
+                0,
+                1,
+                5,
+                6,
+                10,
+                11,
+                15
+            ]
+        },
+        {
+            "level": 3,
+            "size": 4,
+            "source": 0,
+            "target": 15,
+            "idealMoves": 9,
+            "cells": [
+                {
+                    "Shape": 4,
+                    "Rotation": 1,
+                    "Solution": 1,
+                    "Locked": true
+                },
+                {
+                    "Shape": 1,
+                    "Rotation": 0,
+                    "Solution": 2,
+                    "Locked": false
+                },
+                {
+                    "Shape": 2,
+                    "Rotation": 3,
+                    "Solution": 3,
+                    "Locked": false
+                },
+                {
+                    "Shape": 2,
+                    "Rotation": 0,
+                    "Solution": 0,
+                    "Locked": false
+                },
+                {
+                    "Shape": 2,
+                    "Rotation": 1,
+                    "Solution": 1,
+                    "Locked": false
+                },
+                {
+                    "Shape": 2,
+                    "Rotation": 3,
+                    "Solution": 1,
+                    "Locked": false
+                },
+                {
+                    "Shape": 1,
+                    "Rotation": 3,
+                    "Solution": 2,
+                    "Locked": false
+                },
+                {
+                    "Shape": 1,
+                    "Rotation": 1,
+                    "Solution": 1,
+                    "Locked": false
+                },
+                {
+                    "Shape": 1,
+                    "Rotation": 2,
+                    "Solution": 2,
+                    "Locked": false
+                },
+                {
+                    "Shape": 1,
+                    "Rotation": 3,
+                    "Solution": 3,
+                    "Locked": false
+                },
+                {
+                    "Shape": 3,
+                    "Rotation": 3,
+                    "Solution": 3,
+                    "Locked": false
+                },
+                {
+                    "Shape": 1,
+                    "Rotation": 0,
+                    "Solution": 2,
+                    "Locked": false
+                },
+                {
+                    "Shape": 1,
+                    "Rotation": 2,
+                    "Solution": 2,
+                    "Locked": false
+                },
+                {
+                    "Shape": 2,
+                    "Rotation": 1,
+                    "Solution": 1,
+                    "Locked": false
+                },
+                {
+                    "Shape": 1,
+                    "Rotation": 2,
+                    "Solution": 2,
+                    "Locked": false
+                },
+                {
+                    "Shape": 5,
+                    "Rotation": 0,
+                    "Solution": 0,
+                    "Locked": true
+                }
+            ],
+            "route": [
+                0,
+                1,
+                5,
+                6,
+                10,
+                11,
+                15
+            ]
+        },
+        {
+            "level": 4,
+            "size": 4,
+            "source": 0,
+            "target": 15,
+            "idealMoves": 6,
+            "cells": [
+                {
+                    "Shape": 4,
+                    "Rotation": 1,
+                    "Solution": 1,
+                    "Locked": true
+                },
+                {
+                    "Shape": 1,
+                    "Rotation": 0,
+                    "Solution": 2,
+                    "Locked": false
+                },
+                {
+                    "Shape": 3,
+                    "Rotation": 2,
+                    "Solution": 2,
+                    "Locked": false
+                },
+                {
+                    "Shape": 3,
+                    "Rotation": 3,
+                    "Solution": 3,
+                    "Locked": false
+                },
+                {
+                    "Shape": 3,
+                    "Rotation": 2,
+                    "Solution": 2,
+                    "Locked": false
+                },
+                {
+                    "Shape": 2,
+                    "Rotation": 3,
+                    "Solution": 0,
+                    "Locked": false
+                },
+                {
+                    "Shape": 1,
+                    "Rotation": 0,
+                    "Solution": 2,
+                    "Locked": false
+                },
+                {
+                    "Shape": 3,
+                    "Rotation": 0,
+                    "Solution": 0,
+                    "Locked": false
+                },
+                {
+                    "Shape": 1,
+                    "Rotation": 0,
+                    "Solution": 0,
+                    "Locked": false
+                },
+                {
+                    "Shape": 3,
+                    "Rotation": 0,
+                    "Solution": 0,
+                    "Locked": false
+                },
+                {
+                    "Shape": 3,
+                    "Rotation": 0,
+                    "Solution": 0,
+                    "Locked": false
+                },
+                {
+                    "Shape": 1,
+                    "Rotation": 1,
+                    "Solution": 2,
+                    "Locked": false
+                },
+                {
+                    "Shape": 2,
+                    "Rotation": 0,
+                    "Solution": 0,
+                    "Locked": false
+                },
+                {
+                    "Shape": 3,
+                    "Rotation": 3,
+                    "Solution": 3,
+                    "Locked": false
+                },
+                {
+                    "Shape": 2,
+                    "Rotation": 1,
+                    "Solution": 1,
+                    "Locked": false
+                },
+                {
+                    "Shape": 5,
+                    "Rotation": 0,
+                    "Solution": 0,
+                    "Locked": true
+                }
+            ],
+            "route": [
+                0,
+                1,
+                5,
+                6,
+                10,
+                11,
+                15
+            ]
+        },
+        {
+            "level": 5,
+            "size": 4,
+            "source": 0,
+            "target": 15,
+            "idealMoves": 9,
+            "cells": [
+                {
+                    "Shape": 4,
+                    "Rotation": 1,
+                    "Solution": 1,
+                    "Locked": true
+                },
+                {
+                    "Shape": 1,
+                    "Rotation": 0,
+                    "Solution": 2,
+                    "Locked": false
+                },
+                {
+                    "Shape": 2,
+                    "Rotation": 1,
+                    "Solution": 1,
+                    "Locked": false
+                },
+                {
+                    "Shape": 0,
+                    "Rotation": 3,
+                    "Solution": 3,
+                    "Locked": false
+                },
+                {
+                    "Shape": 0,
+                    "Rotation": 2,
+                    "Solution": 2,
+                    "Locked": false
+                },
+                {
+                    "Shape": 2,
+                    "Rotation": 1,
+                    "Solution": 0,
+                    "Locked": false
+                },
+                {
+                    "Shape": 1,
+                    "Rotation": 3,
+                    "Solution": 2,
+                    "Locked": false
+                },
+                {
+                    "Shape": 3,
+                    "Rotation": 3,
+                    "Solution": 3,
+                    "Locked": false
+                },
+                {
+                    "Shape": 2,
+                    "Rotation": 0,
+                    "Solution": 0,
+                    "Locked": false
+                },
+                {
+                    "Shape": 1,
+                    "Rotation": 0,
+                    "Solution": 0,
+                    "Locked": false
+                },
+                {
+                    "Shape": 3,
+                    "Rotation": 1,
+                    "Solution": 1,
+                    "Locked": false
+                },
+                {
+                    "Shape": 1,
+                    "Rotation": 1,
+                    "Solution": 2,
+                    "Locked": false
+                },
+                {
+                    "Shape": 1,
+                    "Rotation": 3,
+                    "Solution": 3,
+                    "Locked": false
+                },
+                {
+                    "Shape": 2,
+                    "Rotation": 1,
+                    "Solution": 1,
+                    "Locked": false
+                },
+                {
+                    "Shape": 0,
+                    "Rotation": 2,
+                    "Solution": 2,
+                    "Locked": false
+                },
+                {
+                    "Shape": 5,
+                    "Rotation": 0,
+                    "Solution": 0,
+                    "Locked": true
+                }
+            ],
+            "route": [
+                0,
+                1,
+                5,
+                6,
+                10,
+                11,
+                15
+            ]
+        },
+        {
+            "level": 6,
+            "size": 4,
+            "source": 0,
+            "target": 15,
+            "idealMoves": 6,
+            "cells": [
+                {
+                    "Shape": 4,
+                    "Rotation": 1,
+                    "Solution": 1,
+                    "Locked": true
+                },
+                {
+                    "Shape": 1,
+                    "Rotation": 0,
+                    "Solution": 2,
+                    "Locked": false
+                },
+                {
+                    "Shape": 0,
+                    "Rotation": 0,
+                    "Solution": 0,
+                    "Locked": false
+                },
+                {
+                    "Shape": 1,
+                    "Rotation": 3,
+                    "Solution": 3,
+                    "Locked": false
+                },
+                {
+                    "Shape": 2,
+                    "Rotation": 0,
+                    "Solution": 0,
+                    "Locked": false
+                },
+                {
+                    "Shape": 2,
+                    "Rotation": 3,
+                    "Solution": 0,
+                    "Locked": false
+                },
+                {
+                    "Shape": 1,
+                    "Rotation": 1,
+                    "Solution": 2,
+                    "Locked": false
+                },
+                {
+                    "Shape": 3,
+                    "Rotation": 1,
+                    "Solution": 1,
+                    "Locked": false
+                },
+                {
+                    "Shape": 2,
+                    "Rotation": 2,
+                    "Solution": 2,
+                    "Locked": false
+                },
+                {
+                    "Shape": 1,
+                    "Rotation": 1,
+                    "Solution": 1,
+                    "Locked": false
+                },
+                {
+                    "Shape": 3,
+                    "Rotation": 2,
+                    "Solution": 2,
+                    "Locked": false
+                },
+                {
+                    "Shape": 1,
+                    "Rotation": 0,
+                    "Solution": 2,
+                    "Locked": false
+                },
+                {
+                    "Shape": 2,
+                    "Rotation": 3,
+                    "Solution": 3,
+                    "Locked": false
+                },
+                {
+                    "Shape": 3,
+                    "Rotation": 3,
+                    "Solution": 3,
+                    "Locked": false
+                },
+                {
+                    "Shape": 0,
+                    "Rotation": 2,
+                    "Solution": 2,
+                    "Locked": false
+                },
+                {
+                    "Shape": 5,
+                    "Rotation": 0,
+                    "Solution": 0,
+                    "Locked": true
+                }
+            ],
+            "route": [
+                0,
+                1,
+                5,
+                6,
+                10,
+                11,
+                15
+            ]
+        },
+        {
+            "level": 7,
+            "size": 4,
+            "source": 0,
+            "target": 15,
+            "idealMoves": 8,
+            "cells": [
+                {
+                    "Shape": 4,
+                    "Rotation": 1,
+                    "Solution": 1,
+                    "Locked": true
+                },
+                {
+                    "Shape": 1,
+                    "Rotation": 0,
+                    "Solution": 2,
+                    "Locked": false
+                },
+                {
+                    "Shape": 3,
+                    "Rotation": 2,
+                    "Solution": 2,
+                    "Locked": false
+                },
+                {
+                    "Shape": 3,
+                    "Rotation": 1,
+                    "Solution": 1,
+                    "Locked": false
+                },
+                {
+                    "Shape": 3,
+                    "Rotation": 0,
+                    "Solution": 0,
+                    "Locked": false
+                },
+                {
+                    "Shape": 2,
+                    "Rotation": 3,
+                    "Solution": 1,
+                    "Locked": false
+                },
+                {
+                    "Shape": 1,
+                    "Rotation": 0,
+                    "Solution": 2,
+                    "Locked": false
+                },
+                {
+                    "Shape": 3,
+                    "Rotation": 0,
+                    "Solution": 0,
+                    "Locked": false
+                },
+                {
+                    "Shape": 0,
+                    "Rotation": 1,
+                    "Solution": 1,
+                    "Locked": false
+                },
+                {
+                    "Shape": 1,
+                    "Rotation": 1,
+                    "Solution": 1,
+                    "Locked": false
+                },
+                {
+                    "Shape": 3,
+                    "Rotation": 3,
+                    "Solution": 3,
+                    "Locked": false
+                },
+                {
+                    "Shape": 1,
+                    "Rotation": 0,
+                    "Solution": 2,
+                    "Locked": false
+                },
+                {
+                    "Shape": 3,
+                    "Rotation": 3,
+                    "Solution": 3,
+                    "Locked": false
+                },
+                {
+                    "Shape": 0,
+                    "Rotation": 2,
+                    "Solution": 2,
+                    "Locked": false
+                },
+                {
+                    "Shape": 2,
+                    "Rotation": 3,
+                    "Solution": 3,
+                    "Locked": false
+                },
+                {
+                    "Shape": 5,
+                    "Rotation": 0,
+                    "Solution": 0,
+                    "Locked": true
+                }
+            ],
+            "route": [
+                0,
+                1,
+                5,
+                6,
+                10,
+                11,
+                15
+            ]
+        },
+        {
+            "level": 8,
+            "size": 5,
+            "source": 0,
+            "target": 24,
+            "idealMoves": 11,
+            "cells": [
+                {
+                    "Shape": 4,
+                    "Rotation": 1,
+                    "Solution": 1,
+                    "Locked": true
+                },
+                {
+                    "Shape": 1,
+                    "Rotation": 0,
+                    "Solution": 2,
+                    "Locked": false
+                },
+                {
+                    "Shape": 3,
+                    "Rotation": 1,
+                    "Solution": 1,
+                    "Locked": false
+                },
+                {
+                    "Shape": 0,
+                    "Rotation": 0,
+                    "Solution": 0,
+                    "Locked": false
+                },
+                {
+                    "Shape": 1,
+                    "Rotation": 3,
+                    "Solution": 3,
+                    "Locked": false
+                },
+                {
+                    "Shape": 2,
+                    "Rotation": 2,
+                    "Solution": 2,
+                    "Locked": false
+                },
+                {
+                    "Shape": 2,
+                    "Rotation": 2,
+                    "Solution": 0,
+                    "Locked": false
+                },
+                {
+                    "Shape": 1,
+                    "Rotation": 1,
+                    "Solution": 2,
+                    "Locked": false
+                },
+                {
+                    "Shape": 1,
+                    "Rotation": 1,
+                    "Solution": 1,
+                    "Locked": false
+                },
+                {
+                    "Shape": 2,
+                    "Rotation": 2,
+                    "Solution": 2,
+                    "Locked": false
+                },
+                {
+                    "Shape": 1,
+                    "Rotation": 3,
+                    "Solution": 3,
+                    "Locked": false
+                },
+                {
+                    "Shape": 2,
+                    "Rotation": 1,
+                    "Solution": 1,
+                    "Locked": false
+                },
+                {
+                    "Shape": 3,
+                    "Rotation": 0,
+                    "Solution": 0,
+                    "Locked": false
+                },
+                {
+                    "Shape": 1,
+                    "Rotation": 3,
+                    "Solution": 2,
+                    "Locked": false
+                },
+                {
+                    "Shape": 0,
+                    "Rotation": 1,
+                    "Solution": 1,
+                    "Locked": false
+                },
+                {
+                    "Shape": 2,
+                    "Rotation": 3,
+                    "Solution": 3,
+                    "Locked": false
+                },
+                {
+                    "Shape": 0,
+                    "Rotation": 1,
+                    "Solution": 1,
+                    "Locked": false
+                },
+                {
+                    "Shape": 2,
+                    "Rotation": 0,
+                    "Solution": 0,
+                    "Locked": false
+                },
+                {
+                    "Shape": 1,
+                    "Rotation": 1,
+                    "Solution": 0,
+                    "Locked": false
+                },
+                {
+                    "Shape": 2,
+                    "Rotation": 3,
+                    "Solution": 3,
+                    "Locked": false
+                },
+                {
+                    "Shape": 1,
+                    "Rotation": 1,
+                    "Solution": 1,
+                    "Locked": false
+                },
+                {
+                    "Shape": 1,
+                    "Rotation": 3,
+                    "Solution": 3,
+                    "Locked": false
+                },
+                {
+                    "Shape": 1,
+                    "Rotation": 0,
+                    "Solution": 0,
+                    "Locked": false
+                },
+                {
+                    "Shape": 0,
+                    "Rotation": 0,
+                    "Solution": 0,
+                    "Locked": false
+                },
+                {
+                    "Shape": 5,
+                    "Rotation": 0,
+                    "Solution": 0,
+                    "Locked": true
+                }
+            ],
+            "route": [
+                0,
+                1,
+                6,
+                7,
+                12,
+                13,
+                18,
+                19,
+                24
+            ]
+        },
+        {
+            "level": 9,
+            "size": 5,
+            "source": 0,
+            "target": 24,
+            "idealMoves": 12,
+            "cells": [
+                {
+                    "Shape": 4,
+                    "Rotation": 1,
+                    "Solution": 1,
+                    "Locked": true
+                },
+                {
+                    "Shape": 1,
+                    "Rotation": 0,
+                    "Solution": 2,
+                    "Locked": false
+                },
+                {
+                    "Shape": 2,
+                    "Rotation": 0,
+                    "Solution": 0,
+                    "Locked": false
+                },
+                {
+                    "Shape": 0,
+                    "Rotation": 2,
+                    "Solution": 2,
+                    "Locked": false
+                },
+                {
+                    "Shape": 0,
+                    "Rotation": 3,
+                    "Solution": 3,
+                    "Locked": false
+                },
+                {
+                    "Shape": 0,
+                    "Rotation": 2,
+                    "Solution": 2,
+                    "Locked": false
+                },
+                {
+                    "Shape": 2,
+                    "Rotation": 3,
+                    "Solution": 0,
+                    "Locked": false
+                },
+                {
+                    "Shape": 1,
+                    "Rotation": 3,
+                    "Solution": 2,
+                    "Locked": false
+                },
+                {
+                    "Shape": 0,
+                    "Rotation": 0,
+                    "Solution": 0,
+                    "Locked": false
+                },
+                {
+                    "Shape": 0,
+                    "Rotation": 2,
+                    "Solution": 2,
+                    "Locked": false
+                },
+                {
+                    "Shape": 3,
+                    "Rotation": 3,
+                    "Solution": 3,
+                    "Locked": false
+                },
+                {
+                    "Shape": 2,
+                    "Rotation": 0,
+                    "Solution": 0,
+                    "Locked": false
+                },
+                {
+                    "Shape": 3,
+                    "Rotation": 1,
+                    "Solution": 1,
+                    "Locked": false
+                },
+                {
+                    "Shape": 1,
+                    "Rotation": 0,
+                    "Solution": 2,
+                    "Locked": false
+                },
+                {
+                    "Shape": 1,
+                    "Rotation": 1,
+                    "Solution": 1,
+                    "Locked": false
+                },
+                {
+                    "Shape": 0,
+                    "Rotation": 1,
+                    "Solution": 1,
+                    "Locked": false
+                },
+                {
+                    "Shape": 1,
+                    "Rotation": 2,
+                    "Solution": 2,
+                    "Locked": false
+                },
+                {
+                    "Shape": 3,
+                    "Rotation": 0,
+                    "Solution": 0,
+                    "Locked": false
+                },
+                {
+                    "Shape": 1,
+                    "Rotation": 3,
+                    "Solution": 0,
+                    "Locked": false
+                },
+                {
+                    "Shape": 2,
+                    "Rotation": 3,
+                    "Solution": 2,
+                    "Locked": false
+                },
+                {
+                    "Shape": 1,
+                    "Rotation": 2,
+                    "Solution": 2,
+                    "Locked": false
+                },
+                {
+                    "Shape": 3,
+                    "Rotation": 2,
+                    "Solution": 2,
+                    "Locked": false
+                },
+                {
+                    "Shape": 0,
+                    "Rotation": 2,
+                    "Solution": 2,
+                    "Locked": false
+                },
+                {
+                    "Shape": 2,
+                    "Rotation": 0,
+                    "Solution": 0,
+                    "Locked": false
+                },
+                {
+                    "Shape": 5,
+                    "Rotation": 0,
+                    "Solution": 0,
+                    "Locked": true
+                }
+            ],
+            "route": [
+                0,
+                1,
+                6,
+                7,
+                12,
+                13,
+                18,
+                19,
+                24
+            ]
+        },
+        {
+            "level": 10,
+            "size": 5,
+            "source": 0,
+            "target": 24,
+            "idealMoves": 14,
+            "cells": [
+                {
+                    "Shape": 4,
+                    "Rotation": 1,
+                    "Solution": 1,
+                    "Locked": true
+                },
+                {
+                    "Shape": 1,
+                    "Rotation": 0,
+                    "Solution": 2,
+                    "Locked": false
+                },
+                {
+                    "Shape": 3,
+                    "Rotation": 0,
+                    "Solution": 0,
+                    "Locked": false
+                },
+                {
+                    "Shape": 2,
+                    "Rotation": 3,
+                    "Solution": 3,
+                    "Locked": false
+                },
+                {
+                    "Shape": 3,
+                    "Rotation": 3,
+                    "Solution": 3,
+                    "Locked": false
+                },
+                {
+                    "Shape": 1,
+                    "Rotation": 0,
+                    "Solution": 0,
+                    "Locked": false
+                },
+                {
+                    "Shape": 2,
+                    "Rotation": 2,
+                    "Solution": 0,
+                    "Locked": false
+                },
+                {
+                    "Shape": 1,
+                    "Rotation": 3,
+                    "Solution": 2,
+                    "Locked": false
+                },
+                {
+                    "Shape": 2,
+                    "Rotation": 1,
+                    "Solution": 1,
+                    "Locked": false
+                },
+                {
+                    "Shape": 3,
+                    "Rotation": 0,
+                    "Solution": 0,
+                    "Locked": false
+                },
+                {
+                    "Shape": 0,
+                    "Rotation": 2,
+                    "Solution": 2,
+                    "Locked": false
+                },
+                {
+                    "Shape": 0,
+                    "Rotation": 2,
+                    "Solution": 2,
+                    "Locked": false
+                },
+                {
+                    "Shape": 3,
+                    "Rotation": 2,
+                    "Solution": 2,
+                    "Locked": false
+                },
+                {
+                    "Shape": 1,
+                    "Rotation": 0,
+                    "Solution": 2,
+                    "Locked": false
+                },
+                {
+                    "Shape": 1,
+                    "Rotation": 0,
+                    "Solution": 0,
+                    "Locked": false
+                },
+                {
+                    "Shape": 3,
+                    "Rotation": 3,
+                    "Solution": 3,
+                    "Locked": false
+                },
+                {
+                    "Shape": 1,
+                    "Rotation": 3,
+                    "Solution": 3,
+                    "Locked": false
+                },
+                {
+                    "Shape": 1,
+                    "Rotation": 3,
+                    "Solution": 3,
+                    "Locked": false
+                },
+                {
+                    "Shape": 1,
+                    "Rotation": 2,
+                    "Solution": 0,
+                    "Locked": false
+                },
+                {
+                    "Shape": 2,
+                    "Rotation": 3,
+                    "Solution": 2,
+                    "Locked": false
+                },
+                {
+                    "Shape": 2,
+                    "Rotation": 2,
+                    "Solution": 2,
+                    "Locked": false
+                },
+                {
+                    "Shape": 2,
+                    "Rotation": 2,
+                    "Solution": 2,
+                    "Locked": false
+                },
+                {
+                    "Shape": 3,
+                    "Rotation": 3,
+                    "Solution": 3,
+                    "Locked": false
+                },
+                {
+                    "Shape": 3,
+                    "Rotation": 0,
+                    "Solution": 0,
+                    "Locked": false
+                },
+                {
+                    "Shape": 5,
+                    "Rotation": 0,
+                    "Solution": 0,
+                    "Locked": true
+                }
+            ],
+            "route": [
+                0,
+                1,
+                6,
+                7,
+                12,
+                13,
+                18,
+                19,
+                24
+            ]
+        },
+        {
+            "level": 11,
+            "size": 5,
+            "source": 0,
+            "target": 24,
+            "idealMoves": 12,
+            "cells": [
+                {
+                    "Shape": 4,
+                    "Rotation": 1,
+                    "Solution": 1,
+                    "Locked": true
+                },
+                {
+                    "Shape": 1,
+                    "Rotation": 0,
+                    "Solution": 2,
+                    "Locked": false
+                },
+                {
+                    "Shape": 2,
+                    "Rotation": 2,
+                    "Solution": 2,
+                    "Locked": false
+                },
+                {
+                    "Shape": 0,
+                    "Rotation": 3,
+                    "Solution": 3,
+                    "Locked": false
+                },
+                {
+                    "Shape": 3,
+                    "Rotation": 0,
+                    "Solution": 0,
+                    "Locked": false
+                },
+                {
+                    "Shape": 3,
+                    "Rotation": 3,
+                    "Solution": 3,
+                    "Locked": false
+                },
+                {
+                    "Shape": 2,
+                    "Rotation": 3,
+                    "Solution": 1,
+                    "Locked": false
+                },
+                {
+                    "Shape": 1,
+                    "Rotation": 1,
+                    "Solution": 2,
+                    "Locked": false
+                },
+                {
+                    "Shape": 0,
+                    "Rotation": 1,
+                    "Solution": 1,
+                    "Locked": false
+                },
+                {
+                    "Shape": 2,
+                    "Rotation": 1,
+                    "Solution": 1,
+                    "Locked": false
+                },
+                {
+                    "Shape": 1,
+                    "Rotation": 2,
+                    "Solution": 2,
+                    "Locked": false
+                },
+                {
+                    "Shape": 2,
+                    "Rotation": 2,
+                    "Solution": 2,
+                    "Locked": false
+                },
+                {
+                    "Shape": 3,
+                    "Rotation": 3,
+                    "Solution": 3,
+                    "Locked": false
+                },
+                {
+                    "Shape": 1,
+                    "Rotation": 3,
+                    "Solution": 2,
+                    "Locked": false
+                },
+                {
+                    "Shape": 1,
+                    "Rotation": 2,
+                    "Solution": 2,
+                    "Locked": false
+                },
+                {
+                    "Shape": 2,
+                    "Rotation": 0,
+                    "Solution": 0,
+                    "Locked": false
+                },
+                {
+                    "Shape": 3,
+                    "Rotation": 0,
+                    "Solution": 0,
+                    "Locked": false
+                },
+                {
+                    "Shape": 3,
+                    "Rotation": 0,
+                    "Solution": 0,
+                    "Locked": false
+                },
+                {
+                    "Shape": 1,
+                    "Rotation": 2,
+                    "Solution": 0,
+                    "Locked": false
+                },
+                {
+                    "Shape": 2,
+                    "Rotation": 0,
+                    "Solution": 2,
+                    "Locked": false
+                },
+                {
+                    "Shape": 1,
+                    "Rotation": 2,
+                    "Solution": 2,
+                    "Locked": false
+                },
+                {
+                    "Shape": 2,
+                    "Rotation": 2,
+                    "Solution": 2,
+                    "Locked": false
+                },
+                {
+                    "Shape": 0,
+                    "Rotation": 3,
+                    "Solution": 3,
+                    "Locked": false
+                },
+                {
+                    "Shape": 3,
+                    "Rotation": 1,
+                    "Solution": 1,
+                    "Locked": false
+                },
+                {
+                    "Shape": 5,
+                    "Rotation": 0,
+                    "Solution": 0,
+                    "Locked": true
+                }
+            ],
+            "route": [
+                0,
+                1,
+                6,
+                7,
+                12,
+                13,
+                18,
+                19,
+                24
+            ]
+        },
+        {
+            "level": 12,
+            "size": 5,
+            "source": 0,
+            "target": 24,
+            "idealMoves": 11,
+            "cells": [
+                {
+                    "Shape": 4,
+                    "Rotation": 1,
+                    "Solution": 1,
+                    "Locked": true
+                },
+                {
+                    "Shape": 1,
+                    "Rotation": 0,
+                    "Solution": 2,
+                    "Locked": false
+                },
+                {
+                    "Shape": 2,
+                    "Rotation": 3,
+                    "Solution": 3,
+                    "Locked": false
+                },
+                {
+                    "Shape": 2,
+                    "Rotation": 3,
+                    "Solution": 3,
+                    "Locked": false
+                },
+                {
+                    "Shape": 0,
+                    "Rotation": 2,
+                    "Solution": 2,
+                    "Locked": false
+                },
+                {
+                    "Shape": 2,
+                    "Rotation": 0,
+                    "Solution": 0,
+                    "Locked": false
+                },
+                {
+                    "Shape": 2,
+                    "Rotation": 1,
+                    "Solution": 0,
+                    "Locked": false
+                },
+                {
+                    "Shape": 1,
+                    "Rotation": 1,
+                    "Solution": 2,
+                    "Locked": false
+                },
+                {
+                    "Shape": 2,
+                    "Rotation": 2,
+                    "Solution": 2,
+                    "Locked": false
+                },
+                {
+                    "Shape": 0,
+                    "Rotation": 3,
+                    "Solution": 3,
+                    "Locked": false
+                },
+                {
+                    "Shape": 0,
+                    "Rotation": 3,
+                    "Solution": 3,
+                    "Locked": false
+                },
+                {
+                    "Shape": 1,
+                    "Rotation": 0,
+                    "Solution": 0,
+                    "Locked": false
+                },
+                {
+                    "Shape": 3,
+                    "Rotation": 0,
+                    "Solution": 0,
+                    "Locked": false
+                },
+                {
+                    "Shape": 1,
+                    "Rotation": 1,
+                    "Solution": 2,
+                    "Locked": false
+                },
+                {
+                    "Shape": 2,
+                    "Rotation": 3,
+                    "Solution": 3,
+                    "Locked": false
+                },
+                {
+                    "Shape": 2,
+                    "Rotation": 3,
+                    "Solution": 3,
+                    "Locked": false
+                },
+                {
+                    "Shape": 2,
+                    "Rotation": 1,
+                    "Solution": 1,
+                    "Locked": false
+                },
+                {
+                    "Shape": 1,
+                    "Rotation": 3,
+                    "Solution": 3,
+                    "Locked": false
+                },
+                {
+                    "Shape": 1,
+                    "Rotation": 2,
+                    "Solution": 0,
+                    "Locked": false
+                },
+                {
+                    "Shape": 2,
+                    "Rotation": 1,
+                    "Solution": 3,
+                    "Locked": false
+                },
+                {
+                    "Shape": 0,
+                    "Rotation": 2,
+                    "Solution": 2,
+                    "Locked": false
+                },
+                {
+                    "Shape": 3,
+                    "Rotation": 1,
+                    "Solution": 1,
+                    "Locked": false
+                },
+                {
+                    "Shape": 1,
+                    "Rotation": 2,
+                    "Solution": 2,
+                    "Locked": false
+                },
+                {
+                    "Shape": 2,
+                    "Rotation": 1,
+                    "Solution": 1,
+                    "Locked": false
+                },
+                {
+                    "Shape": 5,
+                    "Rotation": 0,
+                    "Solution": 0,
+                    "Locked": true
+                }
+            ],
+            "route": [
+                0,
+                1,
+                6,
+                7,
+                12,
+                13,
+                18,
+                19,
+                24
+            ]
+        },
+        {
+            "level": 13,
+            "size": 5,
+            "source": 0,
+            "target": 24,
+            "idealMoves": 13,
+            "cells": [
+                {
+                    "Shape": 4,
+                    "Rotation": 1,
+                    "Solution": 1,
+                    "Locked": true
+                },
+                {
+                    "Shape": 1,
+                    "Rotation": 0,
+                    "Solution": 2,
+                    "Locked": false
+                },
+                {
+                    "Shape": 3,
+                    "Rotation": 0,
+                    "Solution": 0,
+                    "Locked": false
+                },
+                {
+                    "Shape": 2,
+                    "Rotation": 1,
+                    "Solution": 1,
+                    "Locked": false
+                },
+                {
+                    "Shape": 1,
+                    "Rotation": 3,
+                    "Solution": 3,
+                    "Locked": false
+                },
+                {
+                    "Shape": 2,
+                    "Rotation": 3,
+                    "Solution": 3,
+                    "Locked": false
+                },
+                {
+                    "Shape": 2,
+                    "Rotation": 1,
+                    "Solution": 0,
+                    "Locked": false
+                },
+                {
+                    "Shape": 1,
+                    "Rotation": 0,
+                    "Solution": 2,
+                    "Locked": false
+                },
+                {
+                    "Shape": 2,
+                    "Rotation": 0,
+                    "Solution": 0,
+                    "Locked": false
+                },
+                {
+                    "Shape": 3,
+                    "Rotation": 2,
+                    "Solution": 2,
+                    "Locked": false
+                },
+                {
+                    "Shape": 0,
+                    "Rotation": 0,
+                    "Solution": 0,
+                    "Locked": false
+                },
+                {
+                    "Shape": 0,
+                    "Rotation": 1,
+                    "Solution": 1,
+                    "Locked": false
+                },
+                {
+                    "Shape": 3,
+                    "Rotation": 1,
+                    "Solution": 1,
+                    "Locked": false
+                },
+                {
+                    "Shape": 1,
+                    "Rotation": 0,
+                    "Solution": 2,
+                    "Locked": false
+                },
+                {
+                    "Shape": 3,
+                    "Rotation": 1,
+                    "Solution": 1,
+                    "Locked": false
+                },
+                {
+                    "Shape": 0,
+                    "Rotation": 3,
+                    "Solution": 3,
+                    "Locked": false
+                },
+                {
+                    "Shape": 0,
+                    "Rotation": 3,
+                    "Solution": 3,
+                    "Locked": false
+                },
+                {
+                    "Shape": 3,
+                    "Rotation": 1,
+                    "Solution": 1,
+                    "Locked": false
+                },
+                {
+                    "Shape": 1,
+                    "Rotation": 1,
+                    "Solution": 0,
+                    "Locked": false
+                },
+                {
+                    "Shape": 2,
+                    "Rotation": 1,
+                    "Solution": 2,
+                    "Locked": false
+                },
+                {
+                    "Shape": 3,
+                    "Rotation": 3,
+                    "Solution": 3,
+                    "Locked": false
+                },
+                {
+                    "Shape": 2,
+                    "Rotation": 0,
+                    "Solution": 0,
+                    "Locked": false
+                },
+                {
+                    "Shape": 1,
+                    "Rotation": 0,
+                    "Solution": 0,
+                    "Locked": false
+                },
+                {
+                    "Shape": 2,
+                    "Rotation": 3,
+                    "Solution": 3,
+                    "Locked": false
+                },
+                {
+                    "Shape": 5,
+                    "Rotation": 0,
+                    "Solution": 0,
+                    "Locked": true
+                }
+            ],
+            "route": [
+                0,
+                1,
+                6,
+                7,
+                12,
+                13,
+                18,
+                19,
+                24
+            ]
+        },
+        {
+            "level": 14,
+            "size": 5,
+            "source": 0,
+            "target": 24,
+            "idealMoves": 13,
+            "cells": [
+                {
+                    "Shape": 4,
+                    "Rotation": 1,
+                    "Solution": 1,
+                    "Locked": true
+                },
+                {
+                    "Shape": 1,
+                    "Rotation": 0,
+                    "Solution": 2,
+                    "Locked": false
+                },
+                {
+                    "Shape": 0,
+                    "Rotation": 0,
+                    "Solution": 0,
+                    "Locked": false
+                },
+                {
+                    "Shape": 2,
+                    "Rotation": 0,
+                    "Solution": 0,
+                    "Locked": false
+                },
+                {
+                    "Shape": 2,
+                    "Rotation": 1,
+                    "Solution": 1,
+                    "Locked": false
+                },
+                {
+                    "Shape": 1,
+                    "Rotation": 3,
+                    "Solution": 3,
+                    "Locked": false
+                },
+                {
+                    "Shape": 2,
+                    "Rotation": 1,
+                    "Solution": 0,
+                    "Locked": false
+                },
+                {
+                    "Shape": 1,
+                    "Rotation": 0,
+                    "Solution": 2,
+                    "Locked": false
+                },
+                {
+                    "Shape": 2,
+                    "Rotation": 1,
+                    "Solution": 1,
+                    "Locked": false
+                },
+                {
+                    "Shape": 3,
+                    "Rotation": 0,
+                    "Solution": 0,
+                    "Locked": false
+                },
+                {
+                    "Shape": 2,
+                    "Rotation": 2,
+                    "Solution": 2,
+                    "Locked": false
+                },
+                {
+                    "Shape": 2,
+                    "Rotation": 2,
+                    "Solution": 2,
+                    "Locked": false
+                },
+                {
+                    "Shape": 3,
+                    "Rotation": 2,
+                    "Solution": 2,
+                    "Locked": false
+                },
+                {
+                    "Shape": 1,
+                    "Rotation": 1,
+                    "Solution": 2,
+                    "Locked": false
+                },
+                {
+                    "Shape": 0,
+                    "Rotation": 3,
+                    "Solution": 3,
+                    "Locked": false
+                },
+                {
+                    "Shape": 0,
+                    "Rotation": 0,
+                    "Solution": 0,
+                    "Locked": false
+                },
+                {
+                    "Shape": 2,
+                    "Rotation": 0,
+                    "Solution": 0,
+                    "Locked": false
+                },
+                {
+                    "Shape": 2,
+                    "Rotation": 2,
+                    "Solution": 2,
+                    "Locked": false
+                },
+                {
+                    "Shape": 1,
+                    "Rotation": 2,
+                    "Solution": 0,
+                    "Locked": false
+                },
+                {
+                    "Shape": 2,
+                    "Rotation": 3,
+                    "Solution": 2,
+                    "Locked": false
+                },
+                {
+                    "Shape": 2,
+                    "Rotation": 2,
+                    "Solution": 2,
+                    "Locked": false
+                },
+                {
+                    "Shape": 1,
+                    "Rotation": 2,
+                    "Solution": 2,
+                    "Locked": false
+                },
+                {
+                    "Shape": 2,
+                    "Rotation": 1,
+                    "Solution": 1,
+                    "Locked": false
+                },
+                {
+                    "Shape": 1,
+                    "Rotation": 3,
+                    "Solution": 3,
+                    "Locked": false
+                },
+                {
+                    "Shape": 5,
+                    "Rotation": 0,
+                    "Solution": 0,
+                    "Locked": true
+                }
+            ],
+            "route": [
+                0,
+                1,
+                6,
+                7,
+                12,
+                13,
+                18,
+                19,
+                24
+            ]
+        },
+        {
+            "level": 15,
+            "size": 5,
+            "source": 0,
+            "target": 24,
+            "idealMoves": 14,
+            "cells": [
+                {
+                    "Shape": 4,
+                    "Rotation": 1,
+                    "Solution": 1,
+                    "Locked": true
+                },
+                {
+                    "Shape": 1,
+                    "Rotation": 0,
+                    "Solution": 2,
+                    "Locked": false
+                },
+                {
+                    "Shape": 0,
+                    "Rotation": 0,
+                    "Solution": 0,
+                    "Locked": false
+                },
+                {
+                    "Shape": 0,
+                    "Rotation": 1,
+                    "Solution": 1,
+                    "Locked": false
+                },
+                {
+                    "Shape": 0,
+                    "Rotation": 0,
+                    "Solution": 0,
+                    "Locked": false
+                },
+                {
+                    "Shape": 3,
+                    "Rotation": 0,
+                    "Solution": 0,
+                    "Locked": false
+                },
+                {
+                    "Shape": 2,
+                    "Rotation": 2,
+                    "Solution": 1,
+                    "Locked": false
+                },
+                {
+                    "Shape": 1,
+                    "Rotation": 3,
+                    "Solution": 2,
+                    "Locked": false
+                },
+                {
+                    "Shape": 3,
+                    "Rotation": 3,
+                    "Solution": 3,
+                    "Locked": false
+                },
+                {
+                    "Shape": 2,
+                    "Rotation": 2,
+                    "Solution": 2,
+                    "Locked": false
+                },
+                {
+                    "Shape": 0,
+                    "Rotation": 0,
+                    "Solution": 0,
+                    "Locked": false
+                },
+                {
+                    "Shape": 2,
+                    "Rotation": 3,
+                    "Solution": 3,
+                    "Locked": false
+                },
+                {
+                    "Shape": 3,
+                    "Rotation": 3,
+                    "Solution": 3,
+                    "Locked": false
+                },
+                {
+                    "Shape": 1,
+                    "Rotation": 3,
+                    "Solution": 2,
+                    "Locked": false
+                },
+                {
+                    "Shape": 0,
+                    "Rotation": 0,
+                    "Solution": 0,
+                    "Locked": false
+                },
+                {
+                    "Shape": 0,
+                    "Rotation": 3,
+                    "Solution": 3,
+                    "Locked": false
+                },
+                {
+                    "Shape": 1,
+                    "Rotation": 0,
+                    "Solution": 0,
+                    "Locked": false
+                },
+                {
+                    "Shape": 3,
+                    "Rotation": 0,
+                    "Solution": 0,
+                    "Locked": false
+                },
+                {
+                    "Shape": 1,
+                    "Rotation": 3,
+                    "Solution": 0,
+                    "Locked": false
+                },
+                {
+                    "Shape": 2,
+                    "Rotation": 0,
+                    "Solution": 2,
+                    "Locked": false
+                },
+                {
+                    "Shape": 3,
+                    "Rotation": 3,
+                    "Solution": 3,
+                    "Locked": false
+                },
+                {
+                    "Shape": 0,
+                    "Rotation": 1,
+                    "Solution": 1,
+                    "Locked": false
+                },
+                {
+                    "Shape": 1,
+                    "Rotation": 1,
+                    "Solution": 1,
+                    "Locked": false
+                },
+                {
+                    "Shape": 2,
+                    "Rotation": 0,
+                    "Solution": 0,
+                    "Locked": false
+                },
+                {
+                    "Shape": 5,
+                    "Rotation": 0,
+                    "Solution": 0,
+                    "Locked": true
+                }
+            ],
+            "route": [
+                0,
+                1,
+                6,
+                7,
+                12,
+                13,
+                18,
+                19,
+                24
+            ]
+        },
+        {
+            "level": 16,
+            "size": 5,
+            "source": 0,
+            "target": 24,
+            "idealMoves": 14,
+            "cells": [
+                {
+                    "Shape": 4,
+                    "Rotation": 1,
+                    "Solution": 1,
+                    "Locked": true
+                },
+                {
+                    "Shape": 1,
+                    "Rotation": 0,
+                    "Solution": 2,
+                    "Locked": false
+                },
+                {
+                    "Shape": 2,
+                    "Rotation": 3,
+                    "Solution": 3,
+                    "Locked": false
+                },
+                {
+                    "Shape": 0,
+                    "Rotation": 1,
+                    "Solution": 1,
+                    "Locked": false
+                },
+                {
+                    "Shape": 1,
+                    "Rotation": 3,
+                    "Solution": 3,
+                    "Locked": false
+                },
+                {
+                    "Shape": 2,
+                    "Rotation": 0,
+                    "Solution": 0,
+                    "Locked": false
+                },
+                {
+                    "Shape": 2,
+                    "Rotation": 1,
+                    "Solution": 0,
+                    "Locked": false
+                },
+                {
+                    "Shape": 1,
+                    "Rotation": 0,
+                    "Solution": 2,
+                    "Locked": false
+                },
+                {
+                    "Shape": 1,
+                    "Rotation": 3,
+                    "Solution": 3,
+                    "Locked": false
+                },
+                {
+                    "Shape": 3,
+                    "Rotation": 1,
+                    "Solution": 1,
+                    "Locked": false
+                },
+                {
+                    "Shape": 2,
+                    "Rotation": 1,
+                    "Solution": 1,
+                    "Locked": false
+                },
+                {
+                    "Shape": 1,
+                    "Rotation": 3,
+                    "Solution": 3,
+                    "Locked": false
+                },
+                {
+                    "Shape": 3,
+                    "Rotation": 0,
+                    "Solution": 0,
+                    "Locked": false
+                },
+                {
+                    "Shape": 1,
+                    "Rotation": 3,
+                    "Solution": 2,
+                    "Locked": false
+                },
+                {
+                    "Shape": 3,
+                    "Rotation": 3,
+                    "Solution": 3,
+                    "Locked": false
+                },
+                {
+                    "Shape": 0,
+                    "Rotation": 1,
+                    "Solution": 1,
+                    "Locked": false
+                },
+                {
+                    "Shape": 1,
+                    "Rotation": 3,
+                    "Solution": 3,
+                    "Locked": false
+                },
+                {
+                    "Shape": 0,
+                    "Rotation": 2,
+                    "Solution": 2,
+                    "Locked": false
+                },
+                {
+                    "Shape": 1,
+                    "Rotation": 1,
+                    "Solution": 0,
+                    "Locked": false
+                },
+                {
+                    "Shape": 2,
+                    "Rotation": 2,
+                    "Solution": 3,
+                    "Locked": false
+                },
+                {
+                    "Shape": 3,
+                    "Rotation": 1,
+                    "Solution": 1,
+                    "Locked": false
+                },
+                {
+                    "Shape": 3,
+                    "Rotation": 1,
+                    "Solution": 1,
+                    "Locked": false
+                },
+                {
+                    "Shape": 0,
+                    "Rotation": 1,
+                    "Solution": 1,
+                    "Locked": false
+                },
+                {
+                    "Shape": 2,
+                    "Rotation": 2,
+                    "Solution": 2,
+                    "Locked": false
+                },
+                {
+                    "Shape": 5,
+                    "Rotation": 0,
+                    "Solution": 0,
+                    "Locked": true
+                }
+            ],
+            "route": [
+                0,
+                1,
+                6,
+                7,
+                12,
+                13,
+                18,
+                19,
+                24
+            ]
+        },
+        {
+            "level": 17,
+            "size": 5,
+            "source": 0,
+            "target": 24,
+            "idealMoves": 13,
+            "cells": [
+                {
+                    "Shape": 4,
+                    "Rotation": 1,
+                    "Solution": 1,
+                    "Locked": true
+                },
+                {
+                    "Shape": 1,
+                    "Rotation": 0,
+                    "Solution": 2,
+                    "Locked": false
+                },
+                {
+                    "Shape": 2,
+                    "Rotation": 1,
+                    "Solution": 1,
+                    "Locked": false
+                },
+                {
+                    "Shape": 2,
+                    "Rotation": 3,
+                    "Solution": 3,
+                    "Locked": false
+                },
+                {
+                    "Shape": 3,
+                    "Rotation": 0,
+                    "Solution": 0,
+                    "Locked": false
+                },
+                {
+                    "Shape": 0,
+                    "Rotation": 1,
+                    "Solution": 1,
+                    "Locked": false
+                },
+                {
+                    "Shape": 2,
+                    "Rotation": 1,
+                    "Solution": 0,
+                    "Locked": false
+                },
+                {
+                    "Shape": 1,
+                    "Rotation": 3,
+                    "Solution": 2,
+                    "Locked": false
+                },
+                {
+                    "Shape": 3,
+                    "Rotation": 1,
+                    "Solution": 1,
+                    "Locked": false
+                },
+                {
+                    "Shape": 3,
+                    "Rotation": 3,
+                    "Solution": 3,
+                    "Locked": false
+                },
+                {
+                    "Shape": 2,
+                    "Rotation": 0,
+                    "Solution": 0,
+                    "Locked": false
+                },
+                {
+                    "Shape": 3,
+                    "Rotation": 1,
+                    "Solution": 1,
+                    "Locked": false
+                },
+                {
+                    "Shape": 3,
+                    "Rotation": 1,
+                    "Solution": 1,
+                    "Locked": false
+                },
+                {
+                    "Shape": 1,
+                    "Rotation": 0,
+                    "Solution": 2,
+                    "Locked": false
+                },
+                {
+                    "Shape": 2,
+                    "Rotation": 0,
+                    "Solution": 0,
+                    "Locked": false
+                },
+                {
+                    "Shape": 3,
+                    "Rotation": 3,
+                    "Solution": 3,
+                    "Locked": false
+                },
+                {
+                    "Shape": 3,
+                    "Rotation": 2,
+                    "Solution": 2,
+                    "Locked": false
+                },
+                {
+                    "Shape": 0,
+                    "Rotation": 3,
+                    "Solution": 3,
+                    "Locked": false
+                },
+                {
+                    "Shape": 1,
+                    "Rotation": 2,
+                    "Solution": 0,
+                    "Locked": false
+                },
+                {
+                    "Shape": 2,
+                    "Rotation": 1,
+                    "Solution": 2,
+                    "Locked": false
+                },
+                {
+                    "Shape": 0,
+                    "Rotation": 0,
+                    "Solution": 0,
+                    "Locked": false
+                },
+                {
+                    "Shape": 0,
+                    "Rotation": 2,
+                    "Solution": 2,
+                    "Locked": false
+                },
+                {
+                    "Shape": 0,
+                    "Rotation": 3,
+                    "Solution": 3,
+                    "Locked": false
+                },
+                {
+                    "Shape": 3,
+                    "Rotation": 0,
+                    "Solution": 0,
+                    "Locked": false
+                },
+                {
+                    "Shape": 5,
+                    "Rotation": 0,
+                    "Solution": 0,
+                    "Locked": true
+                }
+            ],
+            "route": [
+                0,
+                1,
+                6,
+                7,
+                12,
+                13,
+                18,
+                19,
+                24
+            ]
+        },
+        {
+            "level": 18,
+            "size": 5,
+            "source": 0,
+            "target": 24,
+            "idealMoves": 12,
+            "cells": [
+                {
+                    "Shape": 4,
+                    "Rotation": 1,
+                    "Solution": 1,
+                    "Locked": true
+                },
+                {
+                    "Shape": 1,
+                    "Rotation": 0,
+                    "Solution": 2,
+                    "Locked": false
+                },
+                {
+                    "Shape": 0,
+                    "Rotation": 0,
+                    "Solution": 0,
+                    "Locked": false
+                },
+                {
+                    "Shape": 2,
+                    "Rotation": 1,
+                    "Solution": 1,
+                    "Locked": false
+                },
+                {
+                    "Shape": 2,
+                    "Rotation": 3,
+                    "Solution": 3,
+                    "Locked": false
+                },
+                {
+                    "Shape": 3,
+                    "Rotation": 0,
+                    "Solution": 0,
+                    "Locked": false
+                },
+                {
+                    "Shape": 2,
+                    "Rotation": 2,
+                    "Solution": 0,
+                    "Locked": false
+                },
+                {
+                    "Shape": 1,
+                    "Rotation": 0,
+                    "Solution": 2,
+                    "Locked": false
+                },
+                {
+                    "Shape": 2,
+                    "Rotation": 2,
+                    "Solution": 2,
+                    "Locked": false
+                },
+                {
+                    "Shape": 1,
+                    "Rotation": 1,
+                    "Solution": 1,
+                    "Locked": false
+                },
+                {
+                    "Shape": 3,
+                    "Rotation": 1,
+                    "Solution": 1,
+                    "Locked": false
+                },
+                {
+                    "Shape": 0,
+                    "Rotation": 0,
+                    "Solution": 0,
+                    "Locked": false
+                },
+                {
+                    "Shape": 3,
+                    "Rotation": 2,
+                    "Solution": 2,
+                    "Locked": false
+                },
+                {
+                    "Shape": 1,
+                    "Rotation": 0,
+                    "Solution": 2,
+                    "Locked": false
+                },
+                {
+                    "Shape": 0,
+                    "Rotation": 2,
+                    "Solution": 2,
+                    "Locked": false
+                },
+                {
+                    "Shape": 0,
+                    "Rotation": 1,
+                    "Solution": 1,
+                    "Locked": false
+                },
+                {
+                    "Shape": 3,
+                    "Rotation": 2,
+                    "Solution": 2,
+                    "Locked": false
+                },
+                {
+                    "Shape": 0,
+                    "Rotation": 3,
+                    "Solution": 3,
+                    "Locked": false
+                },
+                {
+                    "Shape": 1,
+                    "Rotation": 2,
+                    "Solution": 0,
+                    "Locked": false
+                },
+                {
+                    "Shape": 2,
+                    "Rotation": 0,
+                    "Solution": 2,
+                    "Locked": false
+                },
+                {
+                    "Shape": 1,
+                    "Rotation": 3,
+                    "Solution": 3,
+                    "Locked": false
+                },
+                {
+                    "Shape": 0,
+                    "Rotation": 3,
+                    "Solution": 3,
+                    "Locked": false
+                },
+                {
+                    "Shape": 3,
+                    "Rotation": 0,
+                    "Solution": 0,
+                    "Locked": false
+                },
+                {
+                    "Shape": 1,
+                    "Rotation": 1,
+                    "Solution": 1,
+                    "Locked": false
+                },
+                {
+                    "Shape": 5,
+                    "Rotation": 0,
+                    "Solution": 0,
+                    "Locked": true
+                }
+            ],
+            "route": [
+                0,
+                1,
+                6,
+                7,
+                12,
+                13,
+                18,
+                19,
+                24
+            ]
+        },
+        {
+            "level": 19,
+            "size": 6,
+            "source": 0,
+            "target": 35,
+            "idealMoves": 14,
+            "cells": [
+                {
+                    "Shape": 4,
+                    "Rotation": 1,
+                    "Solution": 1,
+                    "Locked": true
+                },
+                {
+                    "Shape": 1,
+                    "Rotation": 0,
+                    "Solution": 2,
+                    "Locked": false
+                },
+                {
+                    "Shape": 0,
+                    "Rotation": 0,
+                    "Solution": 0,
+                    "Locked": false
+                },
+                {
+                    "Shape": 2,
+                    "Rotation": 2,
+                    "Solution": 2,
+                    "Locked": false
+                },
+                {
+                    "Shape": 2,
+                    "Rotation": 3,
+                    "Solution": 3,
+                    "Locked": false
+                },
+                {
+                    "Shape": 0,
+                    "Rotation": 3,
+                    "Solution": 3,
+                    "Locked": false
+                },
+                {
+                    "Shape": 2,
+                    "Rotation": 3,
+                    "Solution": 3,
+                    "Locked": false
+                },
+                {
+                    "Shape": 2,
+                    "Rotation": 0,
+                    "Solution": 1,
+                    "Locked": false
+                },
+                {
+                    "Shape": 1,
+                    "Rotation": 1,
+                    "Solution": 2,
+                    "Locked": false
+                },
+                {
+                    "Shape": 1,
+                    "Rotation": 3,
+                    "Solution": 3,
+                    "Locked": false
+                },
+                {
+                    "Shape": 0,
+                    "Rotation": 3,
+                    "Solution": 3,
+                    "Locked": false
+                },
+                {
+                    "Shape": 1,
+                    "Rotation": 0,
+                    "Solution": 0,
+                    "Locked": false
+                },
+                {
+                    "Shape": 3,
+                    "Rotation": 3,
+                    "Solution": 3,
+                    "Locked": false
+                },
+                {
+                    "Shape": 0,
+                    "Rotation": 3,
+                    "Solution": 3,
+                    "Locked": false
+                },
+                {
+                    "Shape": 3,
+                    "Rotation": 3,
+                    "Solution": 3,
+                    "Locked": false
+                },
+                {
+                    "Shape": 1,
+                    "Rotation": 0,
+                    "Solution": 2,
+                    "Locked": false
+                },
+                {
+                    "Shape": 0,
+                    "Rotation": 3,
+                    "Solution": 3,
+                    "Locked": false
+                },
+                {
+                    "Shape": 3,
+                    "Rotation": 2,
+                    "Solution": 2,
+                    "Locked": false
+                },
+                {
+                    "Shape": 2,
+                    "Rotation": 2,
+                    "Solution": 2,
+                    "Locked": false
+                },
+                {
+                    "Shape": 1,
+                    "Rotation": 1,
+                    "Solution": 1,
+                    "Locked": false
+                },
+                {
+                    "Shape": 0,
+                    "Rotation": 1,
+                    "Solution": 1,
+                    "Locked": false
+                },
+                {
+                    "Shape": 1,
+                    "Rotation": 2,
+                    "Solution": 0,
+                    "Locked": false
+                },
+                {
+                    "Shape": 2,
+                    "Rotation": 0,
+                    "Solution": 2,
+                    "Locked": false
+                },
+                {
+                    "Shape": 1,
+                    "Rotation": 1,
+                    "Solution": 1,
+                    "Locked": false
+                },
+                {
+                    "Shape": 0,
+                    "Rotation": 0,
+                    "Solution": 0,
+                    "Locked": false
+                },
+                {
+                    "Shape": 0,
+                    "Rotation": 3,
+                    "Solution": 3,
+                    "Locked": false
+                },
+                {
+                    "Shape": 3,
+                    "Rotation": 2,
+                    "Solution": 2,
+                    "Locked": false
+                },
+                {
+                    "Shape": 1,
+                    "Rotation": 1,
+                    "Solution": 1,
+                    "Locked": false
+                },
+                {
+                    "Shape": 1,
+                    "Rotation": 3,
+                    "Solution": 0,
+                    "Locked": false
+                },
+                {
+                    "Shape": 1,
+                    "Rotation": 3,
+                    "Solution": 2,
+                    "Locked": false
+                },
+                {
+                    "Shape": 3,
+                    "Rotation": 3,
+                    "Solution": 3,
+                    "Locked": false
+                },
+                {
+                    "Shape": 3,
+                    "Rotation": 0,
+                    "Solution": 0,
+                    "Locked": false
+                },
+                {
+                    "Shape": 1,
+                    "Rotation": 0,
+                    "Solution": 0,
+                    "Locked": false
+                },
+                {
+                    "Shape": 1,
+                    "Rotation": 0,
+                    "Solution": 0,
+                    "Locked": false
+                },
+                {
+                    "Shape": 2,
+                    "Rotation": 1,
+                    "Solution": 1,
+                    "Locked": false
+                },
+                {
+                    "Shape": 5,
+                    "Rotation": 0,
+                    "Solution": 0,
+                    "Locked": true
+                }
+            ],
+            "route": [
+                0,
+                1,
+                7,
+                8,
+                14,
+                15,
+                21,
+                22,
+                28,
+                29,
+                35
+            ]
+        },
+        {
+            "level": 20,
+            "size": 6,
+            "source": 0,
+            "target": 35,
+            "idealMoves": 12,
+            "cells": [
+                {
+                    "Shape": 4,
+                    "Rotation": 1,
+                    "Solution": 1,
+                    "Locked": true
+                },
+                {
+                    "Shape": 1,
+                    "Rotation": 0,
+                    "Solution": 2,
+                    "Locked": false
+                },
+                {
+                    "Shape": 2,
+                    "Rotation": 1,
+                    "Solution": 1,
+                    "Locked": false
+                },
+                {
+                    "Shape": 0,
+                    "Rotation": 1,
+                    "Solution": 1,
+                    "Locked": false
+                },
+                {
+                    "Shape": 0,
+                    "Rotation": 0,
+                    "Solution": 0,
+                    "Locked": false
+                },
+                {
+                    "Shape": 2,
+                    "Rotation": 1,
+                    "Solution": 1,
+                    "Locked": false
+                },
+                {
+                    "Shape": 3,
+                    "Rotation": 3,
+                    "Solution": 3,
+                    "Locked": false
+                },
+                {
+                    "Shape": 2,
+                    "Rotation": 3,
+                    "Solution": 0,
+                    "Locked": false
+                },
+                {
+                    "Shape": 1,
+                    "Rotation": 1,
+                    "Solution": 2,
+                    "Locked": false
+                },
+                {
+                    "Shape": 3,
+                    "Rotation": 0,
+                    "Solution": 0,
+                    "Locked": false
+                },
+                {
+                    "Shape": 1,
+                    "Rotation": 0,
+                    "Solution": 0,
+                    "Locked": false
+                },
+                {
+                    "Shape": 0,
+                    "Rotation": 1,
+                    "Solution": 1,
+                    "Locked": false
+                },
+                {
+                    "Shape": 2,
+                    "Rotation": 3,
+                    "Solution": 3,
+                    "Locked": false
+                },
+                {
+                    "Shape": 3,
+                    "Rotation": 3,
+                    "Solution": 3,
+                    "Locked": false
+                },
+                {
+                    "Shape": 3,
+                    "Rotation": 0,
+                    "Solution": 0,
+                    "Locked": false
+                },
+                {
+                    "Shape": 1,
+                    "Rotation": 3,
+                    "Solution": 2,
+                    "Locked": false
+                },
+                {
+                    "Shape": 0,
+                    "Rotation": 3,
+                    "Solution": 3,
+                    "Locked": false
+                },
+                {
+                    "Shape": 0,
+                    "Rotation": 3,
+                    "Solution": 3,
+                    "Locked": false
+                },
+                {
+                    "Shape": 0,
+                    "Rotation": 2,
+                    "Solution": 2,
+                    "Locked": false
+                },
+                {
+                    "Shape": 2,
+                    "Rotation": 1,
+                    "Solution": 1,
+                    "Locked": false
+                },
+                {
+                    "Shape": 3,
+                    "Rotation": 2,
+                    "Solution": 2,
+                    "Locked": false
+                },
+                {
+                    "Shape": 1,
+                    "Rotation": 3,
+                    "Solution": 0,
+                    "Locked": false
+                },
+                {
+                    "Shape": 2,
+                    "Rotation": 1,
+                    "Solution": 3,
+                    "Locked": false
+                },
+                {
+                    "Shape": 3,
+                    "Rotation": 3,
+                    "Solution": 3,
+                    "Locked": false
+                },
+                {
+                    "Shape": 2,
+                    "Rotation": 3,
+                    "Solution": 3,
+                    "Locked": false
+                },
+                {
+                    "Shape": 2,
+                    "Rotation": 2,
+                    "Solution": 2,
+                    "Locked": false
+                },
+                {
+                    "Shape": 0,
+                    "Rotation": 1,
+                    "Solution": 1,
+                    "Locked": false
+                },
+                {
+                    "Shape": 1,
+                    "Rotation": 1,
+                    "Solution": 1,
+                    "Locked": false
+                },
+                {
+                    "Shape": 1,
+                    "Rotation": 3,
+                    "Solution": 0,
+                    "Locked": false
+                },
+                {
+                    "Shape": 1,
+                    "Rotation": 1,
+                    "Solution": 2,
+                    "Locked": false
+                },
+                {
+                    "Shape": 0,
+                    "Rotation": 2,
+                    "Solution": 2,
+                    "Locked": false
+                },
+                {
+                    "Shape": 1,
+                    "Rotation": 2,
+                    "Solution": 2,
+                    "Locked": false
+                },
+                {
+                    "Shape": 2,
+                    "Rotation": 1,
+                    "Solution": 1,
+                    "Locked": false
+                },
+                {
+                    "Shape": 0,
+                    "Rotation": 2,
+                    "Solution": 2,
+                    "Locked": false
+                },
+                {
+                    "Shape": 2,
+                    "Rotation": 1,
+                    "Solution": 1,
+                    "Locked": false
+                },
+                {
+                    "Shape": 5,
+                    "Rotation": 0,
+                    "Solution": 0,
+                    "Locked": true
+                }
+            ],
+            "route": [
+                0,
+                1,
+                7,
+                8,
+                14,
+                15,
+                21,
+                22,
+                28,
+                29,
+                35
+            ]
+        },
+        {
+            "level": 21,
+            "size": 6,
+            "source": 0,
+            "target": 35,
+            "idealMoves": 20,
+            "cells": [
+                {
+                    "Shape": 4,
+                    "Rotation": 1,
+                    "Solution": 1,
+                    "Locked": true
+                },
+                {
+                    "Shape": 1,
+                    "Rotation": 0,
+                    "Solution": 2,
+                    "Locked": false
+                },
+                {
+                    "Shape": 2,
+                    "Rotation": 3,
+                    "Solution": 3,
+                    "Locked": false
+                },
+                {
+                    "Shape": 0,
+                    "Rotation": 2,
+                    "Solution": 2,
+                    "Locked": false
+                },
+                {
+                    "Shape": 2,
+                    "Rotation": 2,
+                    "Solution": 2,
+                    "Locked": false
+                },
+                {
+                    "Shape": 1,
+                    "Rotation": 0,
+                    "Solution": 0,
+                    "Locked": false
+                },
+                {
+                    "Shape": 0,
+                    "Rotation": 3,
+                    "Solution": 3,
+                    "Locked": false
+                },
+                {
+                    "Shape": 2,
+                    "Rotation": 1,
+                    "Solution": 0,
+                    "Locked": false
+                },
+                {
+                    "Shape": 1,
+                    "Rotation": 3,
+                    "Solution": 2,
+                    "Locked": false
+                },
+                {
+                    "Shape": 1,
+                    "Rotation": 1,
+                    "Solution": 1,
+                    "Locked": false
+                },
+                {
+                    "Shape": 1,
+                    "Rotation": 1,
+                    "Solution": 1,
+                    "Locked": false
+                },
+                {
+                    "Shape": 0,
+                    "Rotation": 0,
+                    "Solution": 0,
+                    "Locked": false
+                },
+                {
+                    "Shape": 3,
+                    "Rotation": 2,
+                    "Solution": 2,
+                    "Locked": false
+                },
+                {
+                    "Shape": 3,
+                    "Rotation": 0,
+                    "Solution": 0,
+                    "Locked": false
+                },
+                {
+                    "Shape": 3,
+                    "Rotation": 1,
+                    "Solution": 1,
+                    "Locked": false
+                },
+                {
+                    "Shape": 1,
+                    "Rotation": 3,
+                    "Solution": 2,
+                    "Locked": false
+                },
+                {
+                    "Shape": 0,
+                    "Rotation": 0,
+                    "Solution": 0,
+                    "Locked": false
+                },
+                {
+                    "Shape": 0,
+                    "Rotation": 0,
+                    "Solution": 0,
+                    "Locked": false
+                },
+                {
+                    "Shape": 0,
+                    "Rotation": 1,
+                    "Solution": 1,
+                    "Locked": false
+                },
+                {
+                    "Shape": 2,
+                    "Rotation": 2,
+                    "Solution": 2,
+                    "Locked": false
+                },
+                {
+                    "Shape": 0,
+                    "Rotation": 3,
+                    "Solution": 3,
+                    "Locked": false
+                },
+                {
+                    "Shape": 1,
+                    "Rotation": 2,
+                    "Solution": 0,
+                    "Locked": false
+                },
+                {
+                    "Shape": 2,
+                    "Rotation": 3,
+                    "Solution": 2,
+                    "Locked": false
+                },
+                {
+                    "Shape": 1,
+                    "Rotation": 3,
+                    "Solution": 3,
+                    "Locked": false
+                },
+                {
+                    "Shape": 1,
+                    "Rotation": 1,
+                    "Solution": 1,
+                    "Locked": false
+                },
+                {
+                    "Shape": 2,
+                    "Rotation": 1,
+                    "Solution": 1,
+                    "Locked": false
+                },
+                {
+                    "Shape": 0,
+                    "Rotation": 1,
+                    "Solution": 1,
+                    "Locked": false
+                },
+                {
+                    "Shape": 2,
+                    "Rotation": 0,
+                    "Solution": 0,
+                    "Locked": false
+                },
+                {
+                    "Shape": 1,
+                    "Rotation": 3,
+                    "Solution": 0,
+                    "Locked": false
+                },
+                {
+                    "Shape": 1,
+                    "Rotation": 3,
+                    "Solution": 2,
+                    "Locked": false
+                },
+                {
+                    "Shape": 0,
+                    "Rotation": 0,
+                    "Solution": 0,
+                    "Locked": false
+                },
+                {
+                    "Shape": 1,
+                    "Rotation": 3,
+                    "Solution": 3,
+                    "Locked": false
+                },
+                {
+                    "Shape": 1,
+                    "Rotation": 2,
+                    "Solution": 2,
+                    "Locked": false
+                },
+                {
+                    "Shape": 3,
+                    "Rotation": 2,
+                    "Solution": 2,
+                    "Locked": false
+                },
+                {
+                    "Shape": 0,
+                    "Rotation": 3,
+                    "Solution": 3,
+                    "Locked": false
+                },
+                {
+                    "Shape": 5,
+                    "Rotation": 0,
+                    "Solution": 0,
+                    "Locked": true
+                }
+            ],
+            "route": [
+                0,
+                1,
+                7,
+                8,
+                14,
+                15,
+                21,
+                22,
+                28,
+                29,
+                35
+            ]
+        },
+        {
+            "level": 22,
+            "size": 6,
+            "source": 0,
+            "target": 35,
+            "idealMoves": 18,
+            "cells": [
+                {
+                    "Shape": 4,
+                    "Rotation": 1,
+                    "Solution": 1,
+                    "Locked": true
+                },
+                {
+                    "Shape": 1,
+                    "Rotation": 0,
+                    "Solution": 2,
+                    "Locked": false
+                },
+                {
+                    "Shape": 1,
+                    "Rotation": 3,
+                    "Solution": 3,
+                    "Locked": false
+                },
+                {
+                    "Shape": 3,
+                    "Rotation": 1,
+                    "Solution": 1,
+                    "Locked": false
+                },
+                {
+                    "Shape": 3,
+                    "Rotation": 2,
+                    "Solution": 2,
+                    "Locked": false
+                },
+                {
+                    "Shape": 3,
+                    "Rotation": 2,
+                    "Solution": 2,
+                    "Locked": false
+                },
+                {
+                    "Shape": 3,
+                    "Rotation": 2,
+                    "Solution": 2,
+                    "Locked": false
+                },
+                {
+                    "Shape": 2,
+                    "Rotation": 1,
+                    "Solution": 0,
+                    "Locked": false
+                },
+                {
+                    "Shape": 1,
+                    "Rotation": 0,
+                    "Solution": 2,
+                    "Locked": false
+                },
+                {
+                    "Shape": 1,
+                    "Rotation": 2,
+                    "Solution": 2,
+                    "Locked": false
+                },
+                {
+                    "Shape": 3,
+                    "Rotation": 0,
+                    "Solution": 0,
+                    "Locked": false
+                },
+                {
+                    "Shape": 2,
+                    "Rotation": 3,
+                    "Solution": 3,
+                    "Locked": false
+                },
+                {
+                    "Shape": 3,
+                    "Rotation": 1,
+                    "Solution": 1,
+                    "Locked": false
+                },
+                {
+                    "Shape": 1,
+                    "Rotation": 1,
+                    "Solution": 1,
+                    "Locked": false
+                },
+                {
+                    "Shape": 3,
+                    "Rotation": 2,
+                    "Solution": 2,
+                    "Locked": false
+                },
+                {
+                    "Shape": 1,
+                    "Rotation": 0,
+                    "Solution": 2,
+                    "Locked": false
+                },
+                {
+                    "Shape": 2,
+                    "Rotation": 2,
+                    "Solution": 2,
+                    "Locked": false
+                },
+                {
+                    "Shape": 2,
+                    "Rotation": 1,
+                    "Solution": 1,
+                    "Locked": false
+                },
+                {
+                    "Shape": 3,
+                    "Rotation": 1,
+                    "Solution": 1,
+                    "Locked": false
+                },
+                {
+                    "Shape": 2,
+                    "Rotation": 1,
+                    "Solution": 1,
+                    "Locked": false
+                },
+                {
+                    "Shape": 2,
+                    "Rotation": 1,
+                    "Solution": 1,
+                    "Locked": false
+                },
+                {
+                    "Shape": 1,
+                    "Rotation": 1,
+                    "Solution": 0,
+                    "Locked": false
+                },
+                {
+                    "Shape": 2,
+                    "Rotation": 3,
+                    "Solution": 2,
+                    "Locked": false
+                },
+                {
+                    "Shape": 2,
+                    "Rotation": 1,
+                    "Solution": 1,
+                    "Locked": false
+                },
+                {
+                    "Shape": 2,
+                    "Rotation": 2,
+                    "Solution": 2,
+                    "Locked": false
+                },
+                {
+                    "Shape": 1,
+                    "Rotation": 0,
+                    "Solution": 0,
+                    "Locked": false
+                },
+                {
+                    "Shape": 3,
+                    "Rotation": 2,
+                    "Solution": 2,
+                    "Locked": false
+                },
+                {
+                    "Shape": 1,
+                    "Rotation": 2,
+                    "Solution": 2,
+                    "Locked": false
+                },
+                {
+                    "Shape": 1,
+                    "Rotation": 3,
+                    "Solution": 0,
+                    "Locked": false
+                },
+                {
+                    "Shape": 1,
+                    "Rotation": 0,
+                    "Solution": 2,
+                    "Locked": false
+                },
+                {
+                    "Shape": 2,
+                    "Rotation": 1,
+                    "Solution": 1,
+                    "Locked": false
+                },
+                {
+                    "Shape": 3,
+                    "Rotation": 3,
+                    "Solution": 3,
+                    "Locked": false
+                },
+                {
+                    "Shape": 1,
+                    "Rotation": 0,
+                    "Solution": 0,
+                    "Locked": false
+                },
+                {
+                    "Shape": 2,
+                    "Rotation": 0,
+                    "Solution": 0,
+                    "Locked": false
+                },
+                {
+                    "Shape": 0,
+                    "Rotation": 3,
+                    "Solution": 3,
+                    "Locked": false
+                },
+                {
+                    "Shape": 5,
+                    "Rotation": 0,
+                    "Solution": 0,
+                    "Locked": true
+                }
+            ],
+            "route": [
+                0,
+                1,
+                7,
+                8,
+                14,
+                15,
+                21,
+                22,
+                28,
+                29,
+                35
+            ]
+        },
+        {
+            "level": 23,
+            "size": 6,
+            "source": 0,
+            "target": 35,
+            "idealMoves": 14,
+            "cells": [
+                {
+                    "Shape": 4,
+                    "Rotation": 1,
+                    "Solution": 1,
+                    "Locked": true
+                },
+                {
+                    "Shape": 1,
+                    "Rotation": 0,
+                    "Solution": 2,
+                    "Locked": false
+                },
+                {
+                    "Shape": 2,
+                    "Rotation": 0,
+                    "Solution": 0,
+                    "Locked": false
+                },
+                {
+                    "Shape": 3,
+                    "Rotation": 1,
+                    "Solution": 1,
+                    "Locked": false
+                },
+                {
+                    "Shape": 0,
+                    "Rotation": 1,
+                    "Solution": 1,
+                    "Locked": false
+                },
+                {
+                    "Shape": 1,
+                    "Rotation": 2,
+                    "Solution": 2,
+                    "Locked": false
+                },
+                {
+                    "Shape": 2,
+                    "Rotation": 3,
+                    "Solution": 3,
+                    "Locked": false
+                },
+                {
+                    "Shape": 2,
+                    "Rotation": 3,
+                    "Solution": 1,
+                    "Locked": false
+                },
+                {
+                    "Shape": 1,
+                    "Rotation": 1,
+                    "Solution": 2,
+                    "Locked": false
+                },
+                {
+                    "Shape": 2,
+                    "Rotation": 0,
+                    "Solution": 0,
+                    "Locked": false
+                },
+                {
+                    "Shape": 1,
+                    "Rotation": 2,
+                    "Solution": 2,
+                    "Locked": false
+                },
+                {
+                    "Shape": 1,
+                    "Rotation": 3,
+                    "Solution": 3,
+                    "Locked": false
+                },
+                {
+                    "Shape": 1,
+                    "Rotation": 0,
+                    "Solution": 0,
+                    "Locked": false
+                },
+                {
+                    "Shape": 3,
+                    "Rotation": 1,
+                    "Solution": 1,
+                    "Locked": false
+                },
+                {
+                    "Shape": 3,
+                    "Rotation": 3,
+                    "Solution": 3,
+                    "Locked": false
+                },
+                {
+                    "Shape": 1,
+                    "Rotation": 1,
+                    "Solution": 2,
+                    "Locked": false
+                },
+                {
+                    "Shape": 2,
+                    "Rotation": 3,
+                    "Solution": 3,
+                    "Locked": false
+                },
+                {
+                    "Shape": 3,
+                    "Rotation": 0,
+                    "Solution": 0,
+                    "Locked": false
+                },
+                {
+                    "Shape": 0,
+                    "Rotation": 3,
+                    "Solution": 3,
+                    "Locked": false
+                },
+                {
+                    "Shape": 1,
+                    "Rotation": 1,
+                    "Solution": 1,
+                    "Locked": false
+                },
+                {
+                    "Shape": 0,
+                    "Rotation": 1,
+                    "Solution": 1,
+                    "Locked": false
+                },
+                {
+                    "Shape": 1,
+                    "Rotation": 1,
+                    "Solution": 0,
+                    "Locked": false
+                },
+                {
+                    "Shape": 2,
+                    "Rotation": 3,
+                    "Solution": 2,
+                    "Locked": false
+                },
+                {
+                    "Shape": 2,
+                    "Rotation": 3,
+                    "Solution": 3,
+                    "Locked": false
+                },
+                {
+                    "Shape": 2,
+                    "Rotation": 2,
+                    "Solution": 2,
+                    "Locked": false
+                },
+                {
+                    "Shape": 2,
+                    "Rotation": 1,
+                    "Solution": 1,
+                    "Locked": false
+                },
+                {
+                    "Shape": 1,
+                    "Rotation": 2,
+                    "Solution": 2,
+                    "Locked": false
+                },
+                {
+                    "Shape": 1,
+                    "Rotation": 3,
+                    "Solution": 3,
+                    "Locked": false
+                },
+                {
+                    "Shape": 1,
+                    "Rotation": 3,
+                    "Solution": 0,
+                    "Locked": false
+                },
+                {
+                    "Shape": 1,
+                    "Rotation": 1,
+                    "Solution": 2,
+                    "Locked": false
+                },
+                {
+                    "Shape": 2,
+                    "Rotation": 0,
+                    "Solution": 0,
+                    "Locked": false
+                },
+                {
+                    "Shape": 2,
+                    "Rotation": 1,
+                    "Solution": 1,
+                    "Locked": false
+                },
+                {
+                    "Shape": 0,
+                    "Rotation": 3,
+                    "Solution": 3,
+                    "Locked": false
+                },
+                {
+                    "Shape": 2,
+                    "Rotation": 1,
+                    "Solution": 1,
+                    "Locked": false
+                },
+                {
+                    "Shape": 1,
+                    "Rotation": 3,
+                    "Solution": 3,
+                    "Locked": false
+                },
+                {
+                    "Shape": 5,
+                    "Rotation": 0,
+                    "Solution": 0,
+                    "Locked": true
+                }
+            ],
+            "route": [
+                0,
+                1,
+                7,
+                8,
+                14,
+                15,
+                21,
+                22,
+                28,
+                29,
+                35
+            ]
+        },
+        {
+            "level": 24,
+            "size": 6,
+            "source": 0,
+            "target": 35,
+            "idealMoves": 15,
+            "cells": [
+                {
+                    "Shape": 4,
+                    "Rotation": 1,
+                    "Solution": 1,
+                    "Locked": true
+                },
+                {
+                    "Shape": 1,
+                    "Rotation": 0,
+                    "Solution": 2,
+                    "Locked": false
+                },
+                {
+                    "Shape": 3,
+                    "Rotation": 3,
+                    "Solution": 3,
+                    "Locked": false
+                },
+                {
+                    "Shape": 3,
+                    "Rotation": 0,
+                    "Solution": 0,
+                    "Locked": false
+                },
+                {
+                    "Shape": 1,
+                    "Rotation": 1,
+                    "Solution": 1,
+                    "Locked": false
+                },
+                {
+                    "Shape": 1,
+                    "Rotation": 0,
+                    "Solution": 0,
+                    "Locked": false
+                },
+                {
+                    "Shape": 1,
+                    "Rotation": 1,
+                    "Solution": 1,
+                    "Locked": false
+                },
+                {
+                    "Shape": 2,
+                    "Rotation": 1,
+                    "Solution": 0,
+                    "Locked": false
+                },
+                {
+                    "Shape": 1,
+                    "Rotation": 1,
+                    "Solution": 2,
+                    "Locked": false
+                },
+                {
+                    "Shape": 3,
+                    "Rotation": 1,
+                    "Solution": 1,
+                    "Locked": false
+                },
+                {
+                    "Shape": 1,
+                    "Rotation": 1,
+                    "Solution": 1,
+                    "Locked": false
+                },
+                {
+                    "Shape": 1,
+                    "Rotation": 0,
+                    "Solution": 0,
+                    "Locked": false
+                },
+                {
+                    "Shape": 1,
+                    "Rotation": 0,
+                    "Solution": 0,
+                    "Locked": false
+                },
+                {
+                    "Shape": 2,
+                    "Rotation": 0,
+                    "Solution": 0,
+                    "Locked": false
+                },
+                {
+                    "Shape": 3,
+                    "Rotation": 0,
+                    "Solution": 0,
+                    "Locked": false
+                },
+                {
+                    "Shape": 1,
+                    "Rotation": 0,
+                    "Solution": 2,
+                    "Locked": false
+                },
+                {
+                    "Shape": 3,
+                    "Rotation": 1,
+                    "Solution": 1,
+                    "Locked": false
+                },
+                {
+                    "Shape": 3,
+                    "Rotation": 1,
+                    "Solution": 1,
+                    "Locked": false
+                },
+                {
+                    "Shape": 3,
+                    "Rotation": 2,
+                    "Solution": 2,
+                    "Locked": false
+                },
+                {
+                    "Shape": 2,
+                    "Rotation": 0,
+                    "Solution": 0,
+                    "Locked": false
+                },
+                {
+                    "Shape": 3,
+                    "Rotation": 1,
+                    "Solution": 1,
+                    "Locked": false
+                },
+                {
+                    "Shape": 1,
+                    "Rotation": 2,
+                    "Solution": 0,
+                    "Locked": false
+                },
+                {
+                    "Shape": 2,
+                    "Rotation": 2,
+                    "Solution": 3,
+                    "Locked": false
+                },
+                {
+                    "Shape": 0,
+                    "Rotation": 1,
+                    "Solution": 1,
+                    "Locked": false
+                },
+                {
+                    "Shape": 2,
+                    "Rotation": 1,
+                    "Solution": 1,
+                    "Locked": false
+                },
+                {
+                    "Shape": 3,
+                    "Rotation": 1,
+                    "Solution": 1,
+                    "Locked": false
+                },
+                {
+                    "Shape": 3,
+                    "Rotation": 0,
+                    "Solution": 0,
+                    "Locked": false
+                },
+                {
+                    "Shape": 0,
+                    "Rotation": 1,
+                    "Solution": 1,
+                    "Locked": false
+                },
+                {
+                    "Shape": 1,
+                    "Rotation": 3,
+                    "Solution": 0,
+                    "Locked": false
+                },
+                {
+                    "Shape": 1,
+                    "Rotation": 3,
+                    "Solution": 2,
+                    "Locked": false
+                },
+                {
+                    "Shape": 3,
+                    "Rotation": 3,
+                    "Solution": 3,
+                    "Locked": false
+                },
+                {
+                    "Shape": 3,
+                    "Rotation": 2,
+                    "Solution": 2,
+                    "Locked": false
+                },
+                {
+                    "Shape": 2,
+                    "Rotation": 1,
+                    "Solution": 1,
+                    "Locked": false
+                },
+                {
+                    "Shape": 3,
+                    "Rotation": 3,
+                    "Solution": 3,
+                    "Locked": false
+                },
+                {
+                    "Shape": 3,
+                    "Rotation": 0,
+                    "Solution": 0,
+                    "Locked": false
+                },
+                {
+                    "Shape": 5,
+                    "Rotation": 0,
+                    "Solution": 0,
+                    "Locked": true
+                }
+            ],
+            "route": [
+                0,
+                1,
+                7,
+                8,
+                14,
+                15,
+                21,
+                22,
+                28,
+                29,
+                35
+            ]
+        },
+        {
+            "level": 25,
+            "size": 7,
+            "source": 0,
+            "target": 48,
+            "idealMoves": 18,
+            "cells": [
+                {
+                    "Shape": 4,
+                    "Rotation": 1,
+                    "Solution": 1,
+                    "Locked": true
+                },
+                {
+                    "Shape": 1,
+                    "Rotation": 0,
+                    "Solution": 2,
+                    "Locked": false
+                },
+                {
+                    "Shape": 0,
+                    "Rotation": 3,
+                    "Solution": 3,
+                    "Locked": false
+                },
+                {
+                    "Shape": 0,
+                    "Rotation": 0,
+                    "Solution": 0,
+                    "Locked": false
+                },
+                {
+                    "Shape": 2,
+                    "Rotation": 0,
+                    "Solution": 0,
+                    "Locked": false
+                },
+                {
+                    "Shape": 0,
+                    "Rotation": 1,
+                    "Solution": 1,
+                    "Locked": false
+                },
+                {
+                    "Shape": 0,
+                    "Rotation": 0,
+                    "Solution": 0,
+                    "Locked": false
+                },
+                {
+                    "Shape": 3,
+                    "Rotation": 3,
+                    "Solution": 3,
+                    "Locked": false
+                },
+                {
+                    "Shape": 2,
+                    "Rotation": 1,
+                    "Solution": 0,
+                    "Locked": false
+                },
+                {
+                    "Shape": 1,
+                    "Rotation": 0,
+                    "Solution": 2,
+                    "Locked": false
+                },
+                {
+                    "Shape": 0,
+                    "Rotation": 2,
+                    "Solution": 2,
+                    "Locked": false
+                },
+                {
+                    "Shape": 2,
+                    "Rotation": 3,
+                    "Solution": 3,
+                    "Locked": false
+                },
+                {
+                    "Shape": 2,
+                    "Rotation": 1,
+                    "Solution": 1,
+                    "Locked": false
+                },
+                {
+                    "Shape": 1,
+                    "Rotation": 1,
+                    "Solution": 1,
+                    "Locked": false
+                },
+                {
+                    "Shape": 2,
+                    "Rotation": 1,
+                    "Solution": 1,
+                    "Locked": false
+                },
+                {
+                    "Shape": 1,
+                    "Rotation": 0,
+                    "Solution": 0,
+                    "Locked": false
+                },
+                {
+                    "Shape": 3,
+                    "Rotation": 1,
+                    "Solution": 1,
+                    "Locked": false
+                },
+                {
+                    "Shape": 1,
+                    "Rotation": 0,
+                    "Solution": 2,
+                    "Locked": false
+                },
+                {
+                    "Shape": 1,
+                    "Rotation": 1,
+                    "Solution": 1,
+                    "Locked": false
+                },
+                {
+                    "Shape": 1,
+                    "Rotation": 1,
+                    "Solution": 1,
+                    "Locked": false
+                },
+                {
+                    "Shape": 0,
+                    "Rotation": 3,
+                    "Solution": 3,
+                    "Locked": false
+                },
+                {
+                    "Shape": 1,
+                    "Rotation": 0,
+                    "Solution": 0,
+                    "Locked": false
+                },
+                {
+                    "Shape": 2,
+                    "Rotation": 2,
+                    "Solution": 2,
+                    "Locked": false
+                },
+                {
+                    "Shape": 3,
+                    "Rotation": 3,
+                    "Solution": 3,
+                    "Locked": false
+                },
+                {
+                    "Shape": 1,
+                    "Rotation": 3,
+                    "Solution": 0,
+                    "Locked": false
+                },
+                {
+                    "Shape": 2,
+                    "Rotation": 0,
+                    "Solution": 2,
+                    "Locked": false
+                },
+                {
+                    "Shape": 3,
+                    "Rotation": 3,
+                    "Solution": 3,
+                    "Locked": false
+                },
+                {
+                    "Shape": 1,
+                    "Rotation": 2,
+                    "Solution": 2,
+                    "Locked": false
+                },
+                {
+                    "Shape": 0,
+                    "Rotation": 3,
+                    "Solution": 3,
+                    "Locked": false
+                },
+                {
+                    "Shape": 3,
+                    "Rotation": 1,
+                    "Solution": 1,
+                    "Locked": false
+                },
+                {
+                    "Shape": 3,
+                    "Rotation": 0,
+                    "Solution": 0,
+                    "Locked": false
+                },
+                {
+                    "Shape": 2,
+                    "Rotation": 2,
+                    "Solution": 2,
+                    "Locked": false
+                },
+                {
+                    "Shape": 1,
+                    "Rotation": 1,
+                    "Solution": 0,
+                    "Locked": false
+                },
+                {
+                    "Shape": 1,
+                    "Rotation": 1,
+                    "Solution": 2,
+                    "Locked": false
+                },
+                {
+                    "Shape": 2,
+                    "Rotation": 2,
+                    "Solution": 2,
+                    "Locked": false
+                },
+                {
+                    "Shape": 3,
+                    "Rotation": 0,
+                    "Solution": 0,
+                    "Locked": false
+                },
+                {
+                    "Shape": 3,
+                    "Rotation": 3,
+                    "Solution": 3,
+                    "Locked": false
+                },
+                {
+                    "Shape": 1,
+                    "Rotation": 3,
+                    "Solution": 3,
+                    "Locked": false
+                },
+                {
+                    "Shape": 1,
+                    "Rotation": 0,
+                    "Solution": 0,
+                    "Locked": false
+                },
+                {
+                    "Shape": 0,
+                    "Rotation": 3,
+                    "Solution": 3,
+                    "Locked": false
+                },
+                {
+                    "Shape": 1,
+                    "Rotation": 2,
+                    "Solution": 0,
+                    "Locked": false
+                },
+                {
+                    "Shape": 3,
+                    "Rotation": 0,
+                    "Solution": 0,
+                    "Locked": false
+                },
+                {
+                    "Shape": 3,
+                    "Rotation": 2,
+                    "Solution": 2,
+                    "Locked": false
+                },
+                {
+                    "Shape": 0,
+                    "Rotation": 0,
+                    "Solution": 0,
+                    "Locked": false
+                },
+                {
+                    "Shape": 3,
+                    "Rotation": 3,
+                    "Solution": 3,
+                    "Locked": false
+                },
+                {
+                    "Shape": 2,
+                    "Rotation": 0,
+                    "Solution": 0,
+                    "Locked": false
+                },
+                {
+                    "Shape": 3,
+                    "Rotation": 3,
+                    "Solution": 3,
+                    "Locked": false
+                },
+                {
+                    "Shape": 2,
+                    "Rotation": 3,
+                    "Solution": 3,
+                    "Locked": false
+                },
+                {
+                    "Shape": 5,
+                    "Rotation": 0,
+                    "Solution": 0,
+                    "Locked": true
+                }
+            ],
+            "route": [
+                0,
+                1,
+                8,
+                9,
+                16,
+                17,
+                24,
+                25,
+                32,
+                33,
+                40,
+                41,
+                48
+            ]
+        },
+        {
+            "level": 26,
+            "size": 7,
+            "source": 0,
+            "target": 48,
+            "idealMoves": 18,
+            "cells": [
+                {
+                    "Shape": 4,
+                    "Rotation": 1,
+                    "Solution": 1,
+                    "Locked": true
+                },
+                {
+                    "Shape": 1,
+                    "Rotation": 0,
+                    "Solution": 2,
+                    "Locked": false
+                },
+                {
+                    "Shape": 2,
+                    "Rotation": 3,
+                    "Solution": 3,
+                    "Locked": false
+                },
+                {
+                    "Shape": 3,
+                    "Rotation": 3,
+                    "Solution": 3,
+                    "Locked": false
+                },
+                {
+                    "Shape": 0,
+                    "Rotation": 2,
+                    "Solution": 2,
+                    "Locked": false
+                },
+                {
+                    "Shape": 1,
+                    "Rotation": 2,
+                    "Solution": 2,
+                    "Locked": false
+                },
+                {
+                    "Shape": 2,
+                    "Rotation": 2,
+                    "Solution": 2,
+                    "Locked": false
+                },
+                {
+                    "Shape": 1,
+                    "Rotation": 1,
+                    "Solution": 1,
+                    "Locked": false
+                },
+                {
+                    "Shape": 2,
+                    "Rotation": 3,
+                    "Solution": 0,
+                    "Locked": false
+                },
+                {
+                    "Shape": 1,
+                    "Rotation": 0,
+                    "Solution": 2,
+                    "Locked": false
+                },
+                {
+                    "Shape": 0,
+                    "Rotation": 2,
+                    "Solution": 2,
+                    "Locked": false
+                },
+                {
+                    "Shape": 2,
+                    "Rotation": 0,
+                    "Solution": 0,
+                    "Locked": false
+                },
+                {
+                    "Shape": 0,
+                    "Rotation": 3,
+                    "Solution": 3,
+                    "Locked": false
+                },
+                {
+                    "Shape": 3,
+                    "Rotation": 1,
+                    "Solution": 1,
+                    "Locked": false
+                },
+                {
+                    "Shape": 2,
+                    "Rotation": 1,
+                    "Solution": 1,
+                    "Locked": false
+                },
+                {
+                    "Shape": 3,
+                    "Rotation": 2,
+                    "Solution": 2,
+                    "Locked": false
+                },
+                {
+                    "Shape": 3,
+                    "Rotation": 2,
+                    "Solution": 2,
+                    "Locked": false
+                },
+                {
+                    "Shape": 1,
+                    "Rotation": 1,
+                    "Solution": 2,
+                    "Locked": false
+                },
+                {
+                    "Shape": 2,
+                    "Rotation": 1,
+                    "Solution": 1,
+                    "Locked": false
+                },
+                {
+                    "Shape": 3,
+                    "Rotation": 0,
+                    "Solution": 0,
+                    "Locked": false
+                },
+                {
+                    "Shape": 3,
+                    "Rotation": 3,
+                    "Solution": 3,
+                    "Locked": false
+                },
+                {
+                    "Shape": 0,
+                    "Rotation": 0,
+                    "Solution": 0,
+                    "Locked": false
+                },
+                {
+                    "Shape": 2,
+                    "Rotation": 0,
+                    "Solution": 0,
+                    "Locked": false
+                },
+                {
+                    "Shape": 0,
+                    "Rotation": 0,
+                    "Solution": 0,
+                    "Locked": false
+                },
+                {
+                    "Shape": 1,
+                    "Rotation": 1,
+                    "Solution": 0,
+                    "Locked": false
+                },
+                {
+                    "Shape": 2,
+                    "Rotation": 1,
+                    "Solution": 2,
+                    "Locked": false
+                },
+                {
+                    "Shape": 2,
+                    "Rotation": 3,
+                    "Solution": 3,
+                    "Locked": false
+                },
+                {
+                    "Shape": 1,
+                    "Rotation": 3,
+                    "Solution": 3,
+                    "Locked": false
+                },
+                {
+                    "Shape": 2,
+                    "Rotation": 1,
+                    "Solution": 1,
+                    "Locked": false
+                },
+                {
+                    "Shape": 2,
+                    "Rotation": 0,
+                    "Solution": 0,
+                    "Locked": false
+                },
+                {
+                    "Shape": 3,
+                    "Rotation": 2,
+                    "Solution": 2,
+                    "Locked": false
+                },
+                {
+                    "Shape": 1,
+                    "Rotation": 0,
+                    "Solution": 0,
+                    "Locked": false
+                },
+                {
+                    "Shape": 1,
+                    "Rotation": 1,
+                    "Solution": 0,
+                    "Locked": false
+                },
+                {
+                    "Shape": 1,
+                    "Rotation": 3,
+                    "Solution": 2,
+                    "Locked": false
+                },
+                {
+                    "Shape": 1,
+                    "Rotation": 1,
+                    "Solution": 1,
+                    "Locked": false
+                },
+                {
+                    "Shape": 0,
+                    "Rotation": 0,
+                    "Solution": 0,
+                    "Locked": false
+                },
+                {
+                    "Shape": 2,
+                    "Rotation": 0,
+                    "Solution": 0,
+                    "Locked": false
+                },
+                {
+                    "Shape": 1,
+                    "Rotation": 3,
+                    "Solution": 3,
+                    "Locked": false
+                },
+                {
+                    "Shape": 3,
+                    "Rotation": 3,
+                    "Solution": 3,
+                    "Locked": false
+                },
+                {
+                    "Shape": 2,
+                    "Rotation": 1,
+                    "Solution": 1,
+                    "Locked": false
+                },
+                {
+                    "Shape": 1,
+                    "Rotation": 2,
+                    "Solution": 0,
+                    "Locked": false
+                },
+                {
+                    "Shape": 3,
+                    "Rotation": 1,
+                    "Solution": 1,
+                    "Locked": false
+                },
+                {
+                    "Shape": 0,
+                    "Rotation": 0,
+                    "Solution": 0,
+                    "Locked": false
+                },
+                {
+                    "Shape": 1,
+                    "Rotation": 2,
+                    "Solution": 2,
+                    "Locked": false
+                },
+                {
+                    "Shape": 0,
+                    "Rotation": 0,
+                    "Solution": 0,
+                    "Locked": false
+                },
+                {
+                    "Shape": 2,
+                    "Rotation": 1,
+                    "Solution": 1,
+                    "Locked": false
+                },
+                {
+                    "Shape": 0,
+                    "Rotation": 3,
+                    "Solution": 3,
+                    "Locked": false
+                },
+                {
+                    "Shape": 2,
+                    "Rotation": 1,
+                    "Solution": 1,
+                    "Locked": false
+                },
+                {
+                    "Shape": 5,
+                    "Rotation": 0,
+                    "Solution": 0,
+                    "Locked": true
+                }
+            ],
+            "route": [
+                0,
+                1,
+                8,
+                9,
+                16,
+                17,
+                24,
+                25,
+                32,
+                33,
+                40,
+                41,
+                48
+            ]
+        },
+        {
+            "level": 27,
+            "size": 7,
+            "source": 0,
+            "target": 48,
+            "idealMoves": 19,
+            "cells": [
+                {
+                    "Shape": 4,
+                    "Rotation": 1,
+                    "Solution": 1,
+                    "Locked": true
+                },
+                {
+                    "Shape": 1,
+                    "Rotation": 0,
+                    "Solution": 2,
+                    "Locked": false
+                },
+                {
+                    "Shape": 0,
+                    "Rotation": 0,
+                    "Solution": 0,
+                    "Locked": false
+                },
+                {
+                    "Shape": 2,
+                    "Rotation": 0,
+                    "Solution": 0,
+                    "Locked": false
+                },
+                {
+                    "Shape": 3,
+                    "Rotation": 1,
+                    "Solution": 1,
+                    "Locked": false
+                },
+                {
+                    "Shape": 0,
+                    "Rotation": 1,
+                    "Solution": 1,
+                    "Locked": false
+                },
+                {
+                    "Shape": 2,
+                    "Rotation": 2,
+                    "Solution": 2,
+                    "Locked": false
+                },
+                {
+                    "Shape": 2,
+                    "Rotation": 2,
+                    "Solution": 2,
+                    "Locked": false
+                },
+                {
+                    "Shape": 2,
+                    "Rotation": 0,
+                    "Solution": 1,
+                    "Locked": false
+                },
+                {
+                    "Shape": 1,
+                    "Rotation": 0,
+                    "Solution": 2,
+                    "Locked": false
+                },
+                {
+                    "Shape": 0,
+                    "Rotation": 0,
+                    "Solution": 0,
+                    "Locked": false
+                },
+                {
+                    "Shape": 3,
+                    "Rotation": 2,
+                    "Solution": 2,
+                    "Locked": false
+                },
+                {
+                    "Shape": 1,
+                    "Rotation": 2,
+                    "Solution": 2,
+                    "Locked": false
+                },
+                {
+                    "Shape": 0,
+                    "Rotation": 0,
+                    "Solution": 0,
+                    "Locked": false
+                },
+                {
+                    "Shape": 1,
+                    "Rotation": 3,
+                    "Solution": 3,
+                    "Locked": false
+                },
+                {
+                    "Shape": 2,
+                    "Rotation": 2,
+                    "Solution": 2,
+                    "Locked": false
+                },
+                {
+                    "Shape": 3,
+                    "Rotation": 3,
+                    "Solution": 3,
+                    "Locked": false
+                },
+                {
+                    "Shape": 1,
+                    "Rotation": 1,
+                    "Solution": 2,
+                    "Locked": false
+                },
+                {
+                    "Shape": 0,
+                    "Rotation": 0,
+                    "Solution": 0,
+                    "Locked": false
+                },
+                {
+                    "Shape": 2,
+                    "Rotation": 3,
+                    "Solution": 3,
+                    "Locked": false
+                },
+                {
+                    "Shape": 3,
+                    "Rotation": 1,
+                    "Solution": 1,
+                    "Locked": false
+                },
+                {
+                    "Shape": 2,
+                    "Rotation": 1,
+                    "Solution": 1,
+                    "Locked": false
+                },
+                {
+                    "Shape": 0,
+                    "Rotation": 2,
+                    "Solution": 2,
+                    "Locked": false
+                },
+                {
+                    "Shape": 0,
+                    "Rotation": 1,
+                    "Solution": 1,
+                    "Locked": false
+                },
+                {
+                    "Shape": 1,
+                    "Rotation": 2,
+                    "Solution": 0,
+                    "Locked": false
+                },
+                {
+                    "Shape": 2,
+                    "Rotation": 0,
+                    "Solution": 2,
+                    "Locked": false
+                },
+                {
+                    "Shape": 1,
+                    "Rotation": 1,
+                    "Solution": 1,
+                    "Locked": false
+                },
+                {
+                    "Shape": 3,
+                    "Rotation": 3,
+                    "Solution": 3,
+                    "Locked": false
+                },
+                {
+                    "Shape": 3,
+                    "Rotation": 3,
+                    "Solution": 3,
+                    "Locked": false
+                },
+                {
+                    "Shape": 3,
+                    "Rotation": 0,
+                    "Solution": 0,
+                    "Locked": false
+                },
+                {
+                    "Shape": 1,
+                    "Rotation": 1,
+                    "Solution": 1,
+                    "Locked": false
+                },
+                {
+                    "Shape": 3,
+                    "Rotation": 1,
+                    "Solution": 1,
+                    "Locked": false
+                },
+                {
+                    "Shape": 1,
+                    "Rotation": 1,
+                    "Solution": 0,
+                    "Locked": false
+                },
+                {
+                    "Shape": 1,
+                    "Rotation": 3,
+                    "Solution": 2,
+                    "Locked": false
+                },
+                {
+                    "Shape": 1,
+                    "Rotation": 0,
+                    "Solution": 0,
+                    "Locked": false
+                },
+                {
+                    "Shape": 2,
+                    "Rotation": 2,
+                    "Solution": 2,
+                    "Locked": false
+                },
+                {
+                    "Shape": 1,
+                    "Rotation": 2,
+                    "Solution": 2,
+                    "Locked": false
+                },
+                {
+                    "Shape": 2,
+                    "Rotation": 3,
+                    "Solution": 3,
+                    "Locked": false
+                },
+                {
+                    "Shape": 0,
+                    "Rotation": 3,
+                    "Solution": 3,
+                    "Locked": false
+                },
+                {
+                    "Shape": 2,
+                    "Rotation": 3,
+                    "Solution": 3,
+                    "Locked": false
+                },
+                {
+                    "Shape": 1,
+                    "Rotation": 1,
+                    "Solution": 0,
+                    "Locked": false
+                },
+                {
+                    "Shape": 3,
+                    "Rotation": 2,
+                    "Solution": 2,
+                    "Locked": false
+                },
+                {
+                    "Shape": 1,
+                    "Rotation": 1,
+                    "Solution": 1,
+                    "Locked": false
+                },
+                {
+                    "Shape": 0,
+                    "Rotation": 0,
+                    "Solution": 0,
+                    "Locked": false
+                },
+                {
+                    "Shape": 0,
+                    "Rotation": 1,
+                    "Solution": 1,
+                    "Locked": false
+                },
+                {
+                    "Shape": 0,
+                    "Rotation": 3,
+                    "Solution": 3,
+                    "Locked": false
+                },
+                {
+                    "Shape": 1,
+                    "Rotation": 3,
+                    "Solution": 3,
+                    "Locked": false
+                },
+                {
+                    "Shape": 0,
+                    "Rotation": 2,
+                    "Solution": 2,
+                    "Locked": false
+                },
+                {
+                    "Shape": 5,
+                    "Rotation": 0,
+                    "Solution": 0,
+                    "Locked": true
+                }
+            ],
+            "route": [
+                0,
+                1,
+                8,
+                9,
+                16,
+                17,
+                24,
+                25,
+                32,
+                33,
+                40,
+                41,
+                48
+            ]
+        },
+        {
+            "level": 28,
+            "size": 7,
+            "source": 0,
+            "target": 48,
+            "idealMoves": 21,
+            "cells": [
+                {
+                    "Shape": 4,
+                    "Rotation": 1,
+                    "Solution": 1,
+                    "Locked": true
+                },
+                {
+                    "Shape": 1,
+                    "Rotation": 0,
+                    "Solution": 2,
+                    "Locked": false
+                },
+                {
+                    "Shape": 3,
+                    "Rotation": 1,
+                    "Solution": 1,
+                    "Locked": false
+                },
+                {
+                    "Shape": 0,
+                    "Rotation": 2,
+                    "Solution": 2,
+                    "Locked": false
+                },
+                {
+                    "Shape": 1,
+                    "Rotation": 2,
+                    "Solution": 2,
+                    "Locked": false
+                },
+                {
+                    "Shape": 1,
+                    "Rotation": 0,
+                    "Solution": 0,
+                    "Locked": false
+                },
+                {
+                    "Shape": 0,
+                    "Rotation": 1,
+                    "Solution": 1,
+                    "Locked": false
+                },
+                {
+                    "Shape": 0,
+                    "Rotation": 0,
+                    "Solution": 0,
+                    "Locked": false
+                },
+                {
+                    "Shape": 2,
+                    "Rotation": 1,
+                    "Solution": 0,
+                    "Locked": false
+                },
+                {
+                    "Shape": 1,
+                    "Rotation": 0,
+                    "Solution": 2,
+                    "Locked": false
+                },
+                {
+                    "Shape": 1,
+                    "Rotation": 0,
+                    "Solution": 0,
+                    "Locked": false
+                },
+                {
+                    "Shape": 0,
+                    "Rotation": 3,
+                    "Solution": 3,
+                    "Locked": false
+                },
+                {
+                    "Shape": 0,
+                    "Rotation": 0,
+                    "Solution": 0,
+                    "Locked": false
+                },
+                {
+                    "Shape": 3,
+                    "Rotation": 3,
+                    "Solution": 3,
+                    "Locked": false
+                },
+                {
+                    "Shape": 3,
+                    "Rotation": 1,
+                    "Solution": 1,
+                    "Locked": false
+                },
+                {
+                    "Shape": 0,
+                    "Rotation": 1,
+                    "Solution": 1,
+                    "Locked": false
+                },
+                {
+                    "Shape": 3,
+                    "Rotation": 0,
+                    "Solution": 0,
+                    "Locked": false
+                },
+                {
+                    "Shape": 1,
+                    "Rotation": 3,
+                    "Solution": 2,
+                    "Locked": false
+                },
+                {
+                    "Shape": 0,
+                    "Rotation": 2,
+                    "Solution": 2,
+                    "Locked": false
+                },
+                {
+                    "Shape": 3,
+                    "Rotation": 0,
+                    "Solution": 0,
+                    "Locked": false
+                },
+                {
+                    "Shape": 0,
+                    "Rotation": 2,
+                    "Solution": 2,
+                    "Locked": false
+                },
+                {
+                    "Shape": 3,
+                    "Rotation": 1,
+                    "Solution": 1,
+                    "Locked": false
+                },
+                {
+                    "Shape": 3,
+                    "Rotation": 3,
+                    "Solution": 3,
+                    "Locked": false
+                },
+                {
+                    "Shape": 2,
+                    "Rotation": 1,
+                    "Solution": 1,
+                    "Locked": false
+                },
+                {
+                    "Shape": 1,
+                    "Rotation": 2,
+                    "Solution": 0,
+                    "Locked": false
+                },
+                {
+                    "Shape": 2,
+                    "Rotation": 1,
+                    "Solution": 3,
+                    "Locked": false
+                },
+                {
+                    "Shape": 3,
+                    "Rotation": 3,
+                    "Solution": 3,
+                    "Locked": false
+                },
+                {
+                    "Shape": 1,
+                    "Rotation": 2,
+                    "Solution": 2,
+                    "Locked": false
+                },
+                {
+                    "Shape": 1,
+                    "Rotation": 2,
+                    "Solution": 2,
+                    "Locked": false
+                },
+                {
+                    "Shape": 0,
+                    "Rotation": 1,
+                    "Solution": 1,
+                    "Locked": false
+                },
+                {
+                    "Shape": 0,
+                    "Rotation": 2,
+                    "Solution": 2,
+                    "Locked": false
+                },
+                {
+                    "Shape": 3,
+                    "Rotation": 1,
+                    "Solution": 1,
+                    "Locked": false
+                },
+                {
+                    "Shape": 1,
+                    "Rotation": 1,
+                    "Solution": 0,
+                    "Locked": false
+                },
+                {
+                    "Shape": 1,
+                    "Rotation": 1,
+                    "Solution": 2,
+                    "Locked": false
+                },
+                {
+                    "Shape": 3,
+                    "Rotation": 1,
+                    "Solution": 1,
+                    "Locked": false
+                },
+                {
+                    "Shape": 3,
+                    "Rotation": 3,
+                    "Solution": 3,
+                    "Locked": false
+                },
+                {
+                    "Shape": 2,
+                    "Rotation": 1,
+                    "Solution": 1,
+                    "Locked": false
+                },
+                {
+                    "Shape": 0,
+                    "Rotation": 3,
+                    "Solution": 3,
+                    "Locked": false
+                },
+                {
+                    "Shape": 0,
+                    "Rotation": 1,
+                    "Solution": 1,
+                    "Locked": false
+                },
+                {
+                    "Shape": 2,
+                    "Rotation": 3,
+                    "Solution": 3,
+                    "Locked": false
+                },
+                {
+                    "Shape": 1,
+                    "Rotation": 1,
+                    "Solution": 0,
+                    "Locked": false
+                },
+                {
+                    "Shape": 3,
+                    "Rotation": 3,
+                    "Solution": 3,
+                    "Locked": false
+                },
+                {
+                    "Shape": 0,
+                    "Rotation": 2,
+                    "Solution": 2,
+                    "Locked": false
+                },
+                {
+                    "Shape": 2,
+                    "Rotation": 1,
+                    "Solution": 1,
+                    "Locked": false
+                },
+                {
+                    "Shape": 0,
+                    "Rotation": 3,
+                    "Solution": 3,
+                    "Locked": false
+                },
+                {
+                    "Shape": 3,
+                    "Rotation": 2,
+                    "Solution": 2,
+                    "Locked": false
+                },
+                {
+                    "Shape": 3,
+                    "Rotation": 0,
+                    "Solution": 0,
+                    "Locked": false
+                },
+                {
+                    "Shape": 1,
+                    "Rotation": 0,
+                    "Solution": 0,
+                    "Locked": false
+                },
+                {
+                    "Shape": 5,
+                    "Rotation": 0,
+                    "Solution": 0,
+                    "Locked": true
+                }
+            ],
+            "route": [
+                0,
+                1,
+                8,
+                9,
+                16,
+                17,
+                24,
+                25,
+                32,
+                33,
+                40,
+                41,
+                48
+            ]
+        },
+        {
+            "level": 29,
+            "size": 7,
+            "source": 0,
+            "target": 48,
+            "idealMoves": 17,
+            "cells": [
+                {
+                    "Shape": 4,
+                    "Rotation": 1,
+                    "Solution": 1,
+                    "Locked": true
+                },
+                {
+                    "Shape": 1,
+                    "Rotation": 0,
+                    "Solution": 2,
+                    "Locked": false
+                },
+                {
+                    "Shape": 2,
+                    "Rotation": 2,
+                    "Solution": 2,
+                    "Locked": false
+                },
+                {
+                    "Shape": 2,
+                    "Rotation": 0,
+                    "Solution": 0,
+                    "Locked": false
+                },
+                {
+                    "Shape": 3,
+                    "Rotation": 1,
+                    "Solution": 1,
+                    "Locked": false
+                },
+                {
+                    "Shape": 3,
+                    "Rotation": 3,
+                    "Solution": 3,
+                    "Locked": false
+                },
+                {
+                    "Shape": 3,
+                    "Rotation": 3,
+                    "Solution": 3,
+                    "Locked": false
+                },
+                {
+                    "Shape": 2,
+                    "Rotation": 3,
+                    "Solution": 3,
+                    "Locked": false
+                },
+                {
+                    "Shape": 2,
+                    "Rotation": 2,
+                    "Solution": 0,
+                    "Locked": false
+                },
+                {
+                    "Shape": 1,
+                    "Rotation": 3,
+                    "Solution": 2,
+                    "Locked": false
+                },
+                {
+                    "Shape": 2,
+                    "Rotation": 3,
+                    "Solution": 3,
+                    "Locked": false
+                },
+                {
+                    "Shape": 0,
+                    "Rotation": 2,
+                    "Solution": 2,
+                    "Locked": false
+                },
+                {
+                    "Shape": 2,
+                    "Rotation": 2,
+                    "Solution": 2,
+                    "Locked": false
+                },
+                {
+                    "Shape": 1,
+                    "Rotation": 1,
+                    "Solution": 1,
+                    "Locked": false
+                },
+                {
+                    "Shape": 1,
+                    "Rotation": 0,
+                    "Solution": 0,
+                    "Locked": false
+                },
+                {
+                    "Shape": 1,
+                    "Rotation": 0,
+                    "Solution": 0,
+                    "Locked": false
+                },
+                {
+                    "Shape": 3,
+                    "Rotation": 1,
+                    "Solution": 1,
+                    "Locked": false
+                },
+                {
+                    "Shape": 1,
+                    "Rotation": 3,
+                    "Solution": 2,
+                    "Locked": false
+                },
+                {
+                    "Shape": 1,
+                    "Rotation": 2,
+                    "Solution": 2,
+                    "Locked": false
+                },
+                {
+                    "Shape": 2,
+                    "Rotation": 0,
+                    "Solution": 0,
+                    "Locked": false
+                },
+                {
+                    "Shape": 1,
+                    "Rotation": 0,
+                    "Solution": 0,
+                    "Locked": false
+                },
+                {
+                    "Shape": 2,
+                    "Rotation": 1,
+                    "Solution": 1,
+                    "Locked": false
+                },
+                {
+                    "Shape": 2,
+                    "Rotation": 2,
+                    "Solution": 2,
+                    "Locked": false
+                },
+                {
+                    "Shape": 0,
+                    "Rotation": 1,
+                    "Solution": 1,
+                    "Locked": false
+                },
+                {
+                    "Shape": 1,
+                    "Rotation": 2,
+                    "Solution": 0,
+                    "Locked": false
+                },
+                {
+                    "Shape": 2,
+                    "Rotation": 1,
+                    "Solution": 2,
+                    "Locked": false
+                },
+                {
+                    "Shape": 2,
+                    "Rotation": 3,
+                    "Solution": 3,
+                    "Locked": false
+                },
+                {
+                    "Shape": 2,
+                    "Rotation": 0,
+                    "Solution": 0,
+                    "Locked": false
+                },
+                {
+                    "Shape": 2,
+                    "Rotation": 1,
+                    "Solution": 1,
+                    "Locked": false
+                },
+                {
+                    "Shape": 2,
+                    "Rotation": 1,
+                    "Solution": 1,
+                    "Locked": false
+                },
+                {
+                    "Shape": 2,
+                    "Rotation": 2,
+                    "Solution": 2,
+                    "Locked": false
+                },
+                {
+                    "Shape": 0,
+                    "Rotation": 2,
+                    "Solution": 2,
+                    "Locked": false
+                },
+                {
+                    "Shape": 1,
+                    "Rotation": 3,
+                    "Solution": 0,
+                    "Locked": false
+                },
+                {
+                    "Shape": 1,
+                    "Rotation": 1,
+                    "Solution": 2,
+                    "Locked": false
+                },
+                {
+                    "Shape": 3,
+                    "Rotation": 1,
+                    "Solution": 1,
+                    "Locked": false
+                },
+                {
+                    "Shape": 3,
+                    "Rotation": 0,
+                    "Solution": 0,
+                    "Locked": false
+                },
+                {
+                    "Shape": 0,
+                    "Rotation": 0,
+                    "Solution": 0,
+                    "Locked": false
+                },
+                {
+                    "Shape": 3,
+                    "Rotation": 3,
+                    "Solution": 3,
+                    "Locked": false
+                },
+                {
+                    "Shape": 2,
+                    "Rotation": 1,
+                    "Solution": 1,
+                    "Locked": false
+                },
+                {
+                    "Shape": 1,
+                    "Rotation": 0,
+                    "Solution": 0,
+                    "Locked": false
+                },
+                {
+                    "Shape": 1,
+                    "Rotation": 2,
+                    "Solution": 0,
+                    "Locked": false
+                },
+                {
+                    "Shape": 3,
+                    "Rotation": 0,
+                    "Solution": 0,
+                    "Locked": false
+                },
+                {
+                    "Shape": 3,
+                    "Rotation": 2,
+                    "Solution": 2,
+                    "Locked": false
+                },
+                {
+                    "Shape": 3,
+                    "Rotation": 1,
+                    "Solution": 1,
+                    "Locked": false
+                },
+                {
+                    "Shape": 0,
+                    "Rotation": 2,
+                    "Solution": 2,
+                    "Locked": false
+                },
+                {
+                    "Shape": 3,
+                    "Rotation": 1,
+                    "Solution": 1,
+                    "Locked": false
+                },
+                {
+                    "Shape": 1,
+                    "Rotation": 3,
+                    "Solution": 3,
+                    "Locked": false
+                },
+                {
+                    "Shape": 1,
+                    "Rotation": 1,
+                    "Solution": 1,
+                    "Locked": false
+                },
+                {
+                    "Shape": 5,
+                    "Rotation": 0,
+                    "Solution": 0,
+                    "Locked": true
+                }
+            ],
+            "route": [
+                0,
+                1,
+                8,
+                9,
+                16,
+                17,
+                24,
+                25,
+                32,
+                33,
+                40,
+                41,
+                48
+            ]
+        },
+        {
+            "level": 30,
+            "size": 7,
+            "source": 0,
+            "target": 48,
+            "idealMoves": 20,
+            "cells": [
+                {
+                    "Shape": 4,
+                    "Rotation": 1,
+                    "Solution": 1,
+                    "Locked": true
+                },
+                {
+                    "Shape": 1,
+                    "Rotation": 0,
+                    "Solution": 2,
+                    "Locked": false
+                },
+                {
+                    "Shape": 2,
+                    "Rotation": 0,
+                    "Solution": 0,
+                    "Locked": false
+                },
+                {
+                    "Shape": 1,
+                    "Rotation": 1,
+                    "Solution": 1,
+                    "Locked": false
+                },
+                {
+                    "Shape": 0,
+                    "Rotation": 0,
+                    "Solution": 0,
+                    "Locked": false
+                },
+                {
+                    "Shape": 0,
+                    "Rotation": 1,
+                    "Solution": 1,
+                    "Locked": false
+                },
+                {
+                    "Shape": 3,
+                    "Rotation": 3,
+                    "Solution": 3,
+                    "Locked": false
+                },
+                {
+                    "Shape": 1,
+                    "Rotation": 2,
+                    "Solution": 2,
+                    "Locked": false
+                },
+                {
+                    "Shape": 2,
+                    "Rotation": 3,
+                    "Solution": 0,
+                    "Locked": false
+                },
+                {
+                    "Shape": 1,
+                    "Rotation": 0,
+                    "Solution": 2,
+                    "Locked": false
+                },
+                {
+                    "Shape": 3,
+                    "Rotation": 0,
+                    "Solution": 0,
+                    "Locked": false
+                },
+                {
+                    "Shape": 0,
+                    "Rotation": 0,
+                    "Solution": 0,
+                    "Locked": false
+                },
+                {
+                    "Shape": 3,
+                    "Rotation": 3,
+                    "Solution": 3,
+                    "Locked": false
+                },
+                {
+                    "Shape": 3,
+                    "Rotation": 1,
+                    "Solution": 1,
+                    "Locked": false
+                },
+                {
+                    "Shape": 2,
+                    "Rotation": 0,
+                    "Solution": 0,
+                    "Locked": false
+                },
+                {
+                    "Shape": 3,
+                    "Rotation": 2,
+                    "Solution": 2,
+                    "Locked": false
+                },
+                {
+                    "Shape": 3,
+                    "Rotation": 2,
+                    "Solution": 2,
+                    "Locked": false
+                },
+                {
+                    "Shape": 1,
+                    "Rotation": 0,
+                    "Solution": 2,
+                    "Locked": false
+                },
+                {
+                    "Shape": 1,
+                    "Rotation": 0,
+                    "Solution": 0,
+                    "Locked": false
+                },
+                {
+                    "Shape": 2,
+                    "Rotation": 3,
+                    "Solution": 3,
+                    "Locked": false
+                },
+                {
+                    "Shape": 2,
+                    "Rotation": 0,
+                    "Solution": 0,
+                    "Locked": false
+                },
+                {
+                    "Shape": 0,
+                    "Rotation": 1,
+                    "Solution": 1,
+                    "Locked": false
+                },
+                {
+                    "Shape": 3,
+                    "Rotation": 3,
+                    "Solution": 3,
+                    "Locked": false
+                },
+                {
+                    "Shape": 1,
+                    "Rotation": 1,
+                    "Solution": 1,
+                    "Locked": false
+                },
+                {
+                    "Shape": 1,
+                    "Rotation": 2,
+                    "Solution": 0,
+                    "Locked": false
+                },
+                {
+                    "Shape": 2,
+                    "Rotation": 3,
+                    "Solution": 2,
+                    "Locked": false
+                },
+                {
+                    "Shape": 3,
+                    "Rotation": 2,
+                    "Solution": 2,
+                    "Locked": false
+                },
+                {
+                    "Shape": 0,
+                    "Rotation": 2,
+                    "Solution": 2,
+                    "Locked": false
+                },
+                {
+                    "Shape": 0,
+                    "Rotation": 3,
+                    "Solution": 3,
+                    "Locked": false
+                },
+                {
+                    "Shape": 2,
+                    "Rotation": 1,
+                    "Solution": 1,
+                    "Locked": false
+                },
+                {
+                    "Shape": 2,
+                    "Rotation": 0,
+                    "Solution": 0,
+                    "Locked": false
+                },
+                {
+                    "Shape": 2,
+                    "Rotation": 0,
+                    "Solution": 0,
+                    "Locked": false
+                },
+                {
+                    "Shape": 1,
+                    "Rotation": 1,
+                    "Solution": 0,
+                    "Locked": false
+                },
+                {
+                    "Shape": 1,
+                    "Rotation": 0,
+                    "Solution": 2,
+                    "Locked": false
+                },
+                {
+                    "Shape": 0,
+                    "Rotation": 0,
+                    "Solution": 0,
+                    "Locked": false
+                },
+                {
+                    "Shape": 0,
+                    "Rotation": 1,
+                    "Solution": 1,
+                    "Locked": false
+                },
+                {
+                    "Shape": 3,
+                    "Rotation": 1,
+                    "Solution": 1,
+                    "Locked": false
+                },
+                {
+                    "Shape": 0,
+                    "Rotation": 0,
+                    "Solution": 0,
+                    "Locked": false
+                },
+                {
+                    "Shape": 1,
+                    "Rotation": 0,
+                    "Solution": 0,
+                    "Locked": false
+                },
+                {
+                    "Shape": 1,
+                    "Rotation": 2,
+                    "Solution": 2,
+                    "Locked": false
+                },
+                {
+                    "Shape": 1,
+                    "Rotation": 1,
+                    "Solution": 0,
+                    "Locked": false
+                },
+                {
+                    "Shape": 3,
+                    "Rotation": 1,
+                    "Solution": 1,
+                    "Locked": false
+                },
+                {
+                    "Shape": 0,
+                    "Rotation": 0,
+                    "Solution": 0,
+                    "Locked": false
+                },
+                {
+                    "Shape": 2,
+                    "Rotation": 2,
+                    "Solution": 2,
+                    "Locked": false
+                },
+                {
+                    "Shape": 0,
+                    "Rotation": 3,
+                    "Solution": 3,
+                    "Locked": false
+                },
+                {
+                    "Shape": 1,
+                    "Rotation": 0,
+                    "Solution": 0,
+                    "Locked": false
+                },
+                {
+                    "Shape": 3,
+                    "Rotation": 3,
+                    "Solution": 3,
+                    "Locked": false
+                },
+                {
+                    "Shape": 1,
+                    "Rotation": 1,
+                    "Solution": 1,
+                    "Locked": false
+                },
+                {
+                    "Shape": 5,
+                    "Rotation": 0,
+                    "Solution": 0,
+                    "Locked": true
+                }
+            ],
+            "route": [
+                0,
+                1,
+                8,
+                9,
+                16,
+                17,
+                24,
+                25,
+                32,
+                33,
+                40,
+                41,
+                48
+            ]
+        }
+    ]
+}
